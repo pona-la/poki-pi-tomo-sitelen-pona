@@ -1,0 +1,35 @@
+{
+	"name": "sitelen pona kiwen",
+	"designer": "jan Sewaka(jan Weko)",
+	"license": "CC-BY-SA-3.0",
+	"category": 4,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "sitelen pona kiwen",
+			"style": 1,
+			"weight": 400,
+			"filename": "sitelen-pona-kiwen.ttf"
+		}
+	],
+	"asciiLigatures": false,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "https://fontstruct.com/fontstructions/show/1795634/sitelen-pona-kiwen",
+	"source": {
+		"web": {
+			"rootUrl": "https://cdn.discordapp.com/attachments/316066233755631616/1076293310559289485"
+		},
+		"files": [
+			{
+				"sourceFile": "sitelen-pona-kiwen.ttf",
+				"destFile": "sitelen-pona-kiwen.ttf"
+			}
+		]
+	},
+	"lastUpdated": "2023-03-01T05:00:00.000Z"
+}

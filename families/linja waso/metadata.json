@@ -1,0 +1,56 @@
+{
+	"name": "linja waso",
+	"designer": "jan Maku (ItMarki)",
+	"license": "OFL-1.0",
+	"category": 3,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja waso",
+			"style": 1,
+			"weight": 400,
+			"filename": "linja-waso-lili-Regular.ttf"
+		},
+		{
+			"name": "linja waso",
+			"style": 1,
+			"weight": 700,
+			"filename": "linja-waso-lili-Bold.ttf"
+		},
+		{
+			"name": "linja waso",
+			"style": 1,
+			"weight": 300,
+			"filename": "linja-waso-lili-Light.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": true,
+	"cartouches": true,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/ItMarki/linja-waso",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "fonts/linja-waso-lili.ttf",
+				"destFile": "linja-waso-lili-Regular.ttf"
+			},
+			{
+				"sourceFile": "fonts/linja-waso-lili-Bold.ttf",
+				"destFile": "linja-waso-lili-Bold.ttf"
+			},
+			{
+				"sourceFile": "fonts/linja-waso-lili-Light.ttf",
+				"destFile": "linja-waso-lili-Light.ttf"
+			}
+		]
+	},
+	"version": "1",
+	"lastUpdated": "2022-08-01T04:00:00.000Z"
+}

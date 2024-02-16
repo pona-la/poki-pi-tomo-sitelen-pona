@@ -1,0 +1,36 @@
+{
+	"name": "linja wawa",
+	"designer": "jan Melon / nimi Elemenopi",
+	"license": "OFL-1.0",
+	"category": 2,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja wawa",
+			"style": 1,
+			"weight": 400,
+			"filename": "linjawawa.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": true,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/janMelon/linjawawa",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "font-files/linjawawa1.21.ttf",
+				"destFile": "linjawawa.ttf"
+			}
+		]
+	},
+	"version": "1.21",
+	"lastUpdated": "2022-01-01T05:00:00.000Z"
+}

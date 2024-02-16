@@ -1,0 +1,36 @@
+{
+	"name": "nasin leko suwi",
+	"designer": "jan Mika en jan Poman",
+	"license": "CC-BY-4.0",
+	"category": 4,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "nasin leko suwi",
+			"style": 1,
+			"weight": 400,
+			"filename": "nasin leko suwi.ttf"
+		}
+	],
+	"asciiLigatures": false,
+	"ucsurCodepoints": true,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "https://nasin.leko.la/",
+	"source": {
+		"web": {
+			"rootUrl": "https://nasin.leko.la/assets/fonts"
+		},
+		"files": [
+			{
+				"sourceFile": "nasin%20leko%20suwi.ttf",
+				"destFile": "nasin leko suwi.ttf"
+			}
+		]
+	},
+	"version": "1.0",
+	"lastUpdated": "2023-02-01T05:00:00.000Z"
+}

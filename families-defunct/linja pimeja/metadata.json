@@ -1,0 +1,36 @@
+{
+	"name": "linja pimeja",
+	"designer": "increpare / jan Inkepa",
+	"license": "CC0-1.0",
+	"category": 1,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja pimeja",
+			"style": 1,
+			"weight": 400,
+			"filename": "linjapimeja19.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"git": {
+			"repositoryUrl": "https://web.archive.org/web/20200908080324if_/https://github.com/increpare/linja_pimeja",
+			"ref": "https://jcdietrich.github.io/linjapimeja19.ttf"
+		},
+		"files": [
+			{
+				"sourceFile": "???",
+				"destFile": "linjapimeja19.ttf"
+			}
+		]
+	},
+	"version": "1.9",
+	"lastUpdated": "2020-05-01T04:00:00.000Z"
+}

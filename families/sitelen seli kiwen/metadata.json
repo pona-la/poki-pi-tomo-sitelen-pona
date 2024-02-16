@@ -1,0 +1,47 @@
+{
+	"name": "sitelen seli kiwen asuki",
+	"designer": "jan Lepeka",
+	"license": "OFL-1.0",
+	"category": 1,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "sitelen seli kiwen asuki",
+			"style": 1,
+			"weight": 400,
+			"filename": "sitelenselikiwenasuki.ttf"
+		},
+		{
+			"name": "sitelen seli kiwen juniko",
+			"style": 1,
+			"weight": 400,
+			"filename": "sitelenselikiwenjuniko.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": true,
+	"cartouches": true,
+	"combinedGlyphs": true,
+	"extendedGlyphs": true,
+	"variantGlyphs": true,
+	"randomizedGlyphs": true,
+	"homepage": "https://www.kreativekorp.com/software/fonts/sitelenselikiwen/",
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/kreativekorp/sitelen-seli-kiwen",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "sitelenselikiwenasuki.ttf",
+				"destFile": "sitelenselikiwenasuki.ttf"
+			},
+			{
+				"sourceFile": "sitelenselikiwenjuniko.ttf",
+				"destFile": "sitelenselikiwenjuniko.ttf"
+			}
+		]
+	},
+	"version": "1.3",
+	"lastUpdated": "2023-11-01T04:00:00.000Z"
+}

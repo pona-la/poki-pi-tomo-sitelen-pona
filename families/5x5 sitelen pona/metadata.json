@@ -1,0 +1,36 @@
+{
+	"name": "5x5 sitelen pona",
+	"designer": "jan Sewaka / jan Weko",
+	"license": "CC-BY-SA-3.0",
+	"category": 4,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "5x5 sitelen pona",
+			"style": 1,
+			"weight": 400,
+			"filename": "5x5-sitelen-pona.ttf"
+		}
+	],
+	"asciiLigatures": false,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "https://fontstruct.com/fontstructions/show/1798201/5x5-sitelen-pona",
+	"source": {
+		"web": {
+			"rootUrl": "https://cdn.discordapp.com/attachments/999566667187228673/1042092594722775060"
+		},
+		"files": [
+			{
+				"sourceFile": "5x5-sitelen-pona.ttf",
+				"destFile": "5x5-sitelen-pona.ttf"
+			}
+		]
+	},
+	"version": "1",
+	"lastUpdated": "2022-08-01T04:00:00.000Z"
+}

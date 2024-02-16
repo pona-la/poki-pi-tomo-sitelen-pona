@@ -1,0 +1,35 @@
+{
+	"name": "Sevenish",
+	"designer": "Nico \"SauceDLX\"",
+	"license": "MIT",
+	"category": 4,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "Sevenish",
+			"style": 1,
+			"weight": 400,
+			"filename": "Sevenish.ttf"
+		}
+	],
+	"asciiLigatures": false,
+	"ucsurCodepoints": true,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"web": {
+			"rootUrl": "https://saucedlx.neocities.org"
+		},
+		"files": [
+			{
+				"sourceFile": "Sevenish.ttf",
+				"destFile": "Sevenish.ttf"
+			}
+		]
+	},
+	"version": "1.0",
+	"lastUpdated": "2023-04-01T04:00:00.000Z"
+}

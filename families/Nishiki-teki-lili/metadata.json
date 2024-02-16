@@ -1,0 +1,36 @@
+{
+	"name": "Nishiki-teki-lili",
+	"designer": "Umihotaru / jan Ke Tami",
+	"license": "OFL-1.0",
+	"category": 2,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "Nishiki-teki-lili",
+			"style": 1,
+			"weight": 400,
+			"filename": "nishiki-teki-lili.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": true,
+	"cartouches": true,
+	"combinedGlyphs": true,
+	"extendedGlyphs": true,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/RetSamys/nishiki-teki-lili",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "nishiki-teki-lili.ttf",
+				"destFile": "nishiki-teki-lili.ttf"
+			}
+		]
+	},
+	"version": "3.95ze",
+	"lastUpdated": "2023-05-01T04:00:00.000Z"
+}

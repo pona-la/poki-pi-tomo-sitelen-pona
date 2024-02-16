@@ -1,0 +1,37 @@
+{
+	"name": "linja pimeja pona",
+	"designer": "jan Ke Tami",
+	"license": "OFL-1.0",
+	"category": 1,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja pimeja pona",
+			"style": 1,
+			"weight": 400,
+			"filename": "linjapimejapona.otf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "http://antetokipona.infinityfreeapp.com/font/",
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/RetSamys/linja-pimeja-pona",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "linjapimejapona0.9.otf",
+				"destFile": "linjapimejapona.otf"
+			}
+		]
+	},
+	"version": "0.9",
+	"lastUpdated": "2022-06-01T04:00:00.000Z"
+}

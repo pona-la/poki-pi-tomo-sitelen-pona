@@ -1,0 +1,37 @@
+{
+	"name": "linja pi tomo lipu",
+	"designer": "Pascal Guimier (jan Talu) / Christophe Bouteiller",
+	"license": "OFL-1.0",
+	"category": 2,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja pi tomo lipu",
+			"style": 1,
+			"weight": 400,
+			"filename": "linjapitomolipu.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": true,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "https://web.archive.org/web/20190222101854/http://www.tomo-lipu.net:80/",
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/pguimier/linjapitomolipu",
+			"ref": "master"
+		},
+		"files": [
+			{
+				"sourceFile": "linjapitomolipu.0.7.ttf",
+				"destFile": "linjapitomolipu.ttf"
+			}
+		]
+	},
+	"version": "0.7",
+	"lastUpdated": "2022-01-01T05:00:00.000Z"
+}

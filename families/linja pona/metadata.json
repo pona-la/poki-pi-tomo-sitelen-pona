@@ -1,0 +1,37 @@
+{
+	"name": "linja pona",
+	"designer": "David A Roberts / jan Same",
+	"license": "OFL-1.0",
+	"category": 2,
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja pona",
+			"style": 1,
+			"weight": 400,
+			"filename": "linja-pona.otf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": true,
+	"combinedGlyphs": true,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "http://musilili.net/linja-pona/",
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/janSame/linja-pona",
+			"ref": "master"
+		},
+		"files": [
+			{
+				"sourceFile": "linja-pona-4.9.otf",
+				"destFile": "linja-pona.otf"
+			}
+		]
+	},
+	"version": "4.9",
+	"lastUpdated": "2021-09-01T04:00:00.000Z"
+}

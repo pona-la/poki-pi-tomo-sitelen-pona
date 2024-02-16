@@ -1,0 +1,75 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+enum Category {
+	// handwritten
+	LINJA_LUKA = 1;
+	// sans-serif, gothic, etc.
+	LINJA_ILO = 2;
+	// "serif"
+	KIWEN = 3;
+	// pixel
+	LEKO = 4;
+}
+
+message Family {
+	// display name for font family
+	string name = 1;
+	// display name for designer
+	string designer = 2;
+	// SPDX license
+	string license = 3;
+	// webpage
+	string homepage = 14;
+	// version
+	string version = 16;
+
+	Category category = 4;
+	string date_added = 5;
+	string last_updated = 17;
+
+	repeated Font fonts = 6;
+	Source source = 15;
+
+	bool ascii_ligatures = 7;
+	bool ucsur_codepoints = 8;
+	bool cartouches = 9;
+	bool combined_glyphs = 10;
+	bool extended_glyphs = 11;
+	bool variant_glyphs = 12;
+	bool randomized_glyphs = 13;
+}
+
+message Source {
+	oneof source {
+		Git git = 1;
+		Web web = 2;
+	}
+	repeated SourceFile files = 3;
+}
+
+message SourceFile {
+	string source_file = 1;
+	string dest_file = 2;
+}
+
+message Git {
+	string repository_url = 1;
+	string ref = 2;
+}
+
+message Web {
+	string root_url = 1;
+}
+
+enum Style {
+	NORMAL = 1;
+}
+
+message Font {
+	string name = 1;
+	Style style = 2;
+	int32 weight = 3;
+	string filename = 4;
+}

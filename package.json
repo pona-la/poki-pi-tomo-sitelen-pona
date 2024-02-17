@@ -6,6 +6,6 @@
   },
   "scripts": {
     "fetch": "node fetch.mjs",
-    "import": "node fonts.mjs"
+    "variants": "node variants.mjs"
   }
 }

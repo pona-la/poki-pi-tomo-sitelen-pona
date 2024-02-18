@@ -2,12 +2,12 @@
 	"name": "sitelen pi jan Soja",
 	"designer": "jan Soja",
 	"license": "OFL-1.0",
-	"category": 4,
+	"category": "LEKO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "sitelen pi jan Soja",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "sitelen_pi_jan_Soja.ttf"
 		}
@@ -31,5 +31,19 @@
 		]
 	},
 	"version": "1.0",
-	"lastUpdated": "2023-02-01T05:00:00.000Z"
+	"lastUpdated": "2023-02-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "sitelen_pi_jan_Soja.ttf",
+			"generatedFileName": "sitelen_pi_jan_Soja.otf"
+		},
+		{
+			"forFilename": "sitelen_pi_jan_Soja.ttf",
+			"generatedFileName": "sitelen_pi_jan_Soja.woff"
+		},
+		{
+			"forFilename": "sitelen_pi_jan_Soja.ttf",
+			"generatedFileName": "sitelen_pi_jan_Soja.woff2"
+		}
+	]
 }

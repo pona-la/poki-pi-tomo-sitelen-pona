@@ -2,12 +2,12 @@
 	"name": "5x5 sitelen pona",
 	"designer": "jan Sewaka / jan Weko",
 	"license": "CC-BY-SA-3.0",
-	"category": 4,
+	"category": "LEKO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "5x5 sitelen pona",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "5x5-sitelen-pona.ttf"
 		}
@@ -32,5 +32,19 @@
 		]
 	},
 	"version": "1",
-	"lastUpdated": "2022-08-01T04:00:00.000Z"
+	"lastUpdated": "2022-08-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "5x5-sitelen-pona.ttf",
+			"generatedFileName": "5x5-sitelen-pona.otf"
+		},
+		{
+			"forFilename": "5x5-sitelen-pona.ttf",
+			"generatedFileName": "5x5-sitelen-pona.woff"
+		},
+		{
+			"forFilename": "5x5-sitelen-pona.ttf",
+			"generatedFileName": "5x5-sitelen-pona.woff2"
+		}
+	]
 }

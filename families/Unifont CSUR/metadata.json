@@ -2,12 +2,12 @@
 	"name": "Unifont CSUR",
 	"designer": "Paul Hardy",
 	"license": "GPL-2.0-or-later with Font-exception-2.0 OR OFL-1.1",
-	"category": 4,
+	"category": "LEKO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "Unifont CSUR",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "unifont_csur.otf"
 		}
@@ -32,5 +32,19 @@
 		]
 	},
 	"version": "15.1.04",
-	"lastUpdated": "2022-05-01T04:00:00.000Z"
+	"lastUpdated": "2022-05-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "unifont_csur.otf",
+			"generatedFileName": "unifont_csur.otf"
+		},
+		{
+			"forFilename": "unifont_csur.otf",
+			"generatedFileName": "unifont_csur.woff"
+		},
+		{
+			"forFilename": "unifont_csur.otf",
+			"generatedFileName": "unifont_csur.woff2"
+		}
+	]
 }

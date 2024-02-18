@@ -2,12 +2,12 @@
 	"name": "nasin nanpa asuki",
 	"designer": "jan Itan",
 	"license": "MIT",
-	"category": 2,
+	"category": "LINJA_ILO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "nasin nanpa asuki",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "nn.otf"
 		}
@@ -32,5 +32,19 @@
 		]
 	},
 	"version": "2.5.2",
-	"lastUpdated": "2023-04-01T04:00:00.000Z"
+	"lastUpdated": "2023-04-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "nn.otf",
+			"generatedFileName": "nn.otf"
+		},
+		{
+			"forFilename": "nn.otf",
+			"generatedFileName": "nn.woff"
+		},
+		{
+			"forFilename": "nn.otf",
+			"generatedFileName": "nn.woff2"
+		}
+	]
 }

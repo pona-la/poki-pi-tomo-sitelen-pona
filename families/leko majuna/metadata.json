@@ -2,12 +2,12 @@
 	"name": "leko majuna",
 	"designer": "waso Keli (Kelsey Higham)",
 	"license": "OFL-1.0",
-	"category": 4,
+	"category": "LEKO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "leko majuna",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "leko majuna.ttf"
 		}
@@ -33,5 +33,19 @@
 		]
 	},
 	"version": "1.0",
-	"lastUpdated": "2023-03-01T05:00:00.000Z"
+	"lastUpdated": "2023-03-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "leko majuna.ttf",
+			"generatedFileName": "leko majuna.otf"
+		},
+		{
+			"forFilename": "leko majuna.ttf",
+			"generatedFileName": "leko majuna.woff"
+		},
+		{
+			"forFilename": "leko majuna.ttf",
+			"generatedFileName": "leko majuna.woff2"
+		}
+	]
 }

@@ -42,6 +42,7 @@ $root.Family = (function() {
      * @property {string|null} [dateAdded] Family dateAdded
      * @property {string|null} [lastUpdated] Family lastUpdated
      * @property {Array.<IFont>|null} [fonts] Family fonts
+     * @property {Array.<IGeneratedVariant>|null} [generatedVariants] Family generatedVariants
      * @property {ISource|null} [source] Family source
      * @property {boolean|null} [asciiLigatures] Family asciiLigatures
      * @property {boolean|null} [ucsurCodepoints] Family ucsurCodepoints
@@ -62,6 +63,7 @@ $root.Family = (function() {
      */
     function Family(properties) {
         this.fonts = [];
+        this.generatedVariants = [];
         if (properties)
             for (var keys = Object.keys(properties), i = 0; i < keys.length; ++i)
                 if (properties[keys[i]] != null)
@@ -139,6 +141,14 @@ $root.Family = (function() {
      * @instance
      */
     Family.prototype.fonts = $util.emptyArray;
+
+    /**
+     * Family generatedVariants.
+     * @member {Array.<IGeneratedVariant>} generatedVariants
+     * @memberof Family
+     * @instance
+     */
+    Family.prototype.generatedVariants = $util.emptyArray;
 
     /**
      * Family source.
@@ -263,6 +273,9 @@ $root.Family = (function() {
             writer.uint32(/* id 16, wireType 2 =*/130).string(message.version);
         if (message.lastUpdated != null && Object.hasOwnProperty.call(message, "lastUpdated"))
             writer.uint32(/* id 17, wireType 2 =*/138).string(message.lastUpdated);
+        if (message.generatedVariants != null && message.generatedVariants.length)
+            for (var i = 0; i < message.generatedVariants.length; ++i)
+                $root.GeneratedVariant.encode(message.generatedVariants[i], writer.uint32(/* id 18, wireType 2 =*/146).fork()).ldelim();
         return writer;
     };
 
@@ -333,6 +346,12 @@ $root.Family = (function() {
                     if (!(message.fonts && message.fonts.length))
                         message.fonts = [];
                     message.fonts.push($root.Font.decode(reader, reader.uint32()));
+                    break;
+                }
+            case 18: {
+                    if (!(message.generatedVariants && message.generatedVariants.length))
+                        message.generatedVariants = [];
+                    message.generatedVariants.push($root.GeneratedVariant.decode(reader, reader.uint32()));
                     break;
                 }
             case 15: {
@@ -442,6 +461,15 @@ $root.Family = (function() {
                     return "fonts." + error;
             }
         }
+        if (message.generatedVariants != null && message.hasOwnProperty("generatedVariants")) {
+            if (!Array.isArray(message.generatedVariants))
+                return "generatedVariants: array expected";
+            for (var i = 0; i < message.generatedVariants.length; ++i) {
+                var error = $root.GeneratedVariant.verify(message.generatedVariants[i]);
+                if (error)
+                    return "generatedVariants." + error;
+            }
+        }
         if (message.source != null && message.hasOwnProperty("source")) {
             var error = $root.Source.verify(message.source);
             if (error)
@@ -531,6 +559,16 @@ $root.Family = (function() {
                 message.fonts[i] = $root.Font.fromObject(object.fonts[i]);
             }
         }
+        if (object.generatedVariants) {
+            if (!Array.isArray(object.generatedVariants))
+                throw TypeError(".Family.generatedVariants: array expected");
+            message.generatedVariants = [];
+            for (var i = 0; i < object.generatedVariants.length; ++i) {
+                if (typeof object.generatedVariants[i] !== "object")
+                    throw TypeError(".Family.generatedVariants: object expected");
+                message.generatedVariants[i] = $root.GeneratedVariant.fromObject(object.generatedVariants[i]);
+            }
+        }
         if (object.source != null) {
             if (typeof object.source !== "object")
                 throw TypeError(".Family.source: object expected");
@@ -566,8 +604,10 @@ $root.Family = (function() {
         if (!options)
             options = {};
         var object = {};
-        if (options.arrays || options.defaults)
+        if (options.arrays || options.defaults) {
             object.fonts = [];
+            object.generatedVariants = [];
+        }
         if (options.defaults) {
             object.name = "";
             object.designer = "";
@@ -623,6 +663,11 @@ $root.Family = (function() {
             object.version = message.version;
         if (message.lastUpdated != null && message.hasOwnProperty("lastUpdated"))
             object.lastUpdated = message.lastUpdated;
+        if (message.generatedVariants && message.generatedVariants.length) {
+            object.generatedVariants = [];
+            for (var j = 0; j < message.generatedVariants.length; ++j)
+                object.generatedVariants[j] = $root.GeneratedVariant.toObject(message.generatedVariants[j], options);
+        }
         return object;
     };
 
@@ -1916,6 +1961,233 @@ $root.Font = (function() {
     };
 
     return Font;
+})();
+
+$root.GeneratedVariant = (function() {
+
+    /**
+     * Properties of a GeneratedVariant.
+     * @exports IGeneratedVariant
+     * @interface IGeneratedVariant
+     * @property {string|null} [forFilename] GeneratedVariant forFilename
+     * @property {string|null} [generatedFileName] GeneratedVariant generatedFileName
+     */
+
+    /**
+     * Constructs a new GeneratedVariant.
+     * @exports GeneratedVariant
+     * @classdesc Represents a GeneratedVariant.
+     * @implements IGeneratedVariant
+     * @constructor
+     * @param {IGeneratedVariant=} [properties] Properties to set
+     */
+    function GeneratedVariant(properties) {
+        if (properties)
+            for (var keys = Object.keys(properties), i = 0; i < keys.length; ++i)
+                if (properties[keys[i]] != null)
+                    this[keys[i]] = properties[keys[i]];
+    }
+
+    /**
+     * GeneratedVariant forFilename.
+     * @member {string} forFilename
+     * @memberof GeneratedVariant
+     * @instance
+     */
+    GeneratedVariant.prototype.forFilename = "";
+
+    /**
+     * GeneratedVariant generatedFileName.
+     * @member {string} generatedFileName
+     * @memberof GeneratedVariant
+     * @instance
+     */
+    GeneratedVariant.prototype.generatedFileName = "";
+
+    /**
+     * Creates a new GeneratedVariant instance using the specified properties.
+     * @function create
+     * @memberof GeneratedVariant
+     * @static
+     * @param {IGeneratedVariant=} [properties] Properties to set
+     * @returns {GeneratedVariant} GeneratedVariant instance
+     */
+    GeneratedVariant.create = function create(properties) {
+        return new GeneratedVariant(properties);
+    };
+
+    /**
+     * Encodes the specified GeneratedVariant message. Does not implicitly {@link GeneratedVariant.verify|verify} messages.
+     * @function encode
+     * @memberof GeneratedVariant
+     * @static
+     * @param {IGeneratedVariant} message GeneratedVariant message or plain object to encode
+     * @param {$protobuf.Writer} [writer] Writer to encode to
+     * @returns {$protobuf.Writer} Writer
+     */
+    GeneratedVariant.encode = function encode(message, writer) {
+        if (!writer)
+            writer = $Writer.create();
+        if (message.forFilename != null && Object.hasOwnProperty.call(message, "forFilename"))
+            writer.uint32(/* id 1, wireType 2 =*/10).string(message.forFilename);
+        if (message.generatedFileName != null && Object.hasOwnProperty.call(message, "generatedFileName"))
+            writer.uint32(/* id 2, wireType 2 =*/18).string(message.generatedFileName);
+        return writer;
+    };
+
+    /**
+     * Encodes the specified GeneratedVariant message, length delimited. Does not implicitly {@link GeneratedVariant.verify|verify} messages.
+     * @function encodeDelimited
+     * @memberof GeneratedVariant
+     * @static
+     * @param {IGeneratedVariant} message GeneratedVariant message or plain object to encode
+     * @param {$protobuf.Writer} [writer] Writer to encode to
+     * @returns {$protobuf.Writer} Writer
+     */
+    GeneratedVariant.encodeDelimited = function encodeDelimited(message, writer) {
+        return this.encode(message, writer).ldelim();
+    };
+
+    /**
+     * Decodes a GeneratedVariant message from the specified reader or buffer.
+     * @function decode
+     * @memberof GeneratedVariant
+     * @static
+     * @param {$protobuf.Reader|Uint8Array} reader Reader or buffer to decode from
+     * @param {number} [length] Message length if known beforehand
+     * @returns {GeneratedVariant} GeneratedVariant
+     * @throws {Error} If the payload is not a reader or valid buffer
+     * @throws {$protobuf.util.ProtocolError} If required fields are missing
+     */
+    GeneratedVariant.decode = function decode(reader, length) {
+        if (!(reader instanceof $Reader))
+            reader = $Reader.create(reader);
+        var end = length === undefined ? reader.len : reader.pos + length, message = new $root.GeneratedVariant();
+        while (reader.pos < end) {
+            var tag = reader.uint32();
+            switch (tag >>> 3) {
+            case 1: {
+                    message.forFilename = reader.string();
+                    break;
+                }
+            case 2: {
+                    message.generatedFileName = reader.string();
+                    break;
+                }
+            default:
+                reader.skipType(tag & 7);
+                break;
+            }
+        }
+        return message;
+    };
+
+    /**
+     * Decodes a GeneratedVariant message from the specified reader or buffer, length delimited.
+     * @function decodeDelimited
+     * @memberof GeneratedVariant
+     * @static
+     * @param {$protobuf.Reader|Uint8Array} reader Reader or buffer to decode from
+     * @returns {GeneratedVariant} GeneratedVariant
+     * @throws {Error} If the payload is not a reader or valid buffer
+     * @throws {$protobuf.util.ProtocolError} If required fields are missing
+     */
+    GeneratedVariant.decodeDelimited = function decodeDelimited(reader) {
+        if (!(reader instanceof $Reader))
+            reader = new $Reader(reader);
+        return this.decode(reader, reader.uint32());
+    };
+
+    /**
+     * Verifies a GeneratedVariant message.
+     * @function verify
+     * @memberof GeneratedVariant
+     * @static
+     * @param {Object.<string,*>} message Plain object to verify
+     * @returns {string|null} `null` if valid, otherwise the reason why it is not
+     */
+    GeneratedVariant.verify = function verify(message) {
+        if (typeof message !== "object" || message === null)
+            return "object expected";
+        if (message.forFilename != null && message.hasOwnProperty("forFilename"))
+            if (!$util.isString(message.forFilename))
+                return "forFilename: string expected";
+        if (message.generatedFileName != null && message.hasOwnProperty("generatedFileName"))
+            if (!$util.isString(message.generatedFileName))
+                return "generatedFileName: string expected";
+        return null;
+    };
+
+    /**
+     * Creates a GeneratedVariant message from a plain object. Also converts values to their respective internal types.
+     * @function fromObject
+     * @memberof GeneratedVariant
+     * @static
+     * @param {Object.<string,*>} object Plain object
+     * @returns {GeneratedVariant} GeneratedVariant
+     */
+    GeneratedVariant.fromObject = function fromObject(object) {
+        if (object instanceof $root.GeneratedVariant)
+            return object;
+        var message = new $root.GeneratedVariant();
+        if (object.forFilename != null)
+            message.forFilename = String(object.forFilename);
+        if (object.generatedFileName != null)
+            message.generatedFileName = String(object.generatedFileName);
+        return message;
+    };
+
+    /**
+     * Creates a plain object from a GeneratedVariant message. Also converts values to other types if specified.
+     * @function toObject
+     * @memberof GeneratedVariant
+     * @static
+     * @param {GeneratedVariant} message GeneratedVariant
+     * @param {$protobuf.IConversionOptions} [options] Conversion options
+     * @returns {Object.<string,*>} Plain object
+     */
+    GeneratedVariant.toObject = function toObject(message, options) {
+        if (!options)
+            options = {};
+        var object = {};
+        if (options.defaults) {
+            object.forFilename = "";
+            object.generatedFileName = "";
+        }
+        if (message.forFilename != null && message.hasOwnProperty("forFilename"))
+            object.forFilename = message.forFilename;
+        if (message.generatedFileName != null && message.hasOwnProperty("generatedFileName"))
+            object.generatedFileName = message.generatedFileName;
+        return object;
+    };
+
+    /**
+     * Converts this GeneratedVariant to JSON.
+     * @function toJSON
+     * @memberof GeneratedVariant
+     * @instance
+     * @returns {Object.<string,*>} JSON object
+     */
+    GeneratedVariant.prototype.toJSON = function toJSON() {
+        return this.constructor.toObject(this, $protobuf.util.toJSONOptions);
+    };
+
+    /**
+     * Gets the default type url for GeneratedVariant
+     * @function getTypeUrl
+     * @memberof GeneratedVariant
+     * @static
+     * @param {string} [typeUrlPrefix] your custom typeUrlPrefix(default "type.googleapis.com")
+     * @returns {string} The default type url
+     */
+    GeneratedVariant.getTypeUrl = function getTypeUrl(typeUrlPrefix) {
+        if (typeUrlPrefix === undefined) {
+            typeUrlPrefix = "type.googleapis.com";
+        }
+        return typeUrlPrefix + "/GeneratedVariant";
+    };
+
+    return GeneratedVariant;
 })();
 
 $root.google = (function() {

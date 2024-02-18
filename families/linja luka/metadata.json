@@ -2,12 +2,12 @@
 	"name": "linja luka",
 	"designer": "jan Pensamin/jan Melon",
 	"license": "OFL-1.0",
-	"category": 1,
+	"category": "LINJA_LUKA",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "linja luka",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "linja-luka-.otf"
 		}
@@ -32,5 +32,19 @@
 		]
 	},
 	"version": "1.0",
-	"lastUpdated": "2022-03-01T05:00:00.000Z"
+	"lastUpdated": "2022-03-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linja-luka.otf",
+			"generatedFileName": "linja-luka.otf"
+		},
+		{
+			"forFilename": "linja-luka.otf",
+			"generatedFileName": "linja-luka.woff"
+		},
+		{
+			"forFilename": "linja-luka.otf",
+			"generatedFileName": "linja-luka.woff2"
+		}
+	]
 }

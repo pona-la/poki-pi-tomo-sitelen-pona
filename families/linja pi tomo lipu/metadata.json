@@ -2,12 +2,12 @@
 	"name": "linja pi tomo lipu",
 	"designer": "Pascal Guimier (jan Talu) / Christophe Bouteiller",
 	"license": "OFL-1.0",
-	"category": 2,
+	"category": "LINJA_ILO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "linja pi tomo lipu",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "linjapitomolipu.ttf"
 		}
@@ -33,5 +33,19 @@
 		]
 	},
 	"version": "0.7",
-	"lastUpdated": "2022-01-01T05:00:00.000Z"
+	"lastUpdated": "2022-01-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linjapitomolipu.ttf",
+			"generatedFileName": "linjapitomolipu.otf"
+		},
+		{
+			"forFilename": "linjapitomolipu.ttf",
+			"generatedFileName": "linjapitomolipu.woff"
+		},
+		{
+			"forFilename": "linjapitomolipu.ttf",
+			"generatedFileName": "linjapitomolipu.woff2"
+		}
+	]
 }

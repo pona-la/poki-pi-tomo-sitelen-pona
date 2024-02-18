@@ -30,6 +30,7 @@ message Family {
 	string last_updated = 17;
 
 	repeated Font fonts = 6;
+	repeated GeneratedVariant generated_variants = 18;
 	Source source = 15;
 
 	bool ascii_ligatures = 7;
@@ -72,4 +73,9 @@ message Font {
 	Style style = 2;
 	int32 weight = 3;
 	string filename = 4;
+}
+
+message GeneratedVariant {
+	string for_filename = 1;
+	string generated_file_name = 2;
 }

@@ -2,12 +2,12 @@
 	"name": "Nishiki-teki",
 	"designer": "Umihotaru",
 	"license": "OFL-1.0",
-	"category": 2,
+	"category": "LINJA_ILO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "Nishiki-teki",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "nishiki-teki.ttf"
 		}
@@ -32,5 +32,19 @@
 		]
 	},
 	"version": "3.95zj",
-	"lastUpdated": "2023-05-01T04:00:00.000Z"
+	"lastUpdated": "2023-05-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "nishiki-teki.ttf",
+			"generatedFileName": "nishiki-teki.otf"
+		},
+		{
+			"forFilename": "nishiki-teki.ttf",
+			"generatedFileName": "nishiki-teki.woff"
+		},
+		{
+			"forFilename": "nishiki-teki.ttf",
+			"generatedFileName": "nishiki-teki.woff2"
+		}
+	]
 }

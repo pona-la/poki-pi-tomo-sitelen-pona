@@ -2,12 +2,12 @@
 	"name": "sitelen pona 7x7",
 	"designer": "jan Sewaka / jan Weko",
 	"license": "CC-BY-SA-3.0",
-	"category": 4,
+	"category": "LEKO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "sitelen pona 7x7",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "sitelen-pona-7x7.ttf"
 		}
@@ -32,5 +32,19 @@
 		]
 	},
 	"version": "1",
-	"lastUpdated": "2022-08-01T04:00:00.000Z"
+	"lastUpdated": "2022-08-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "sitelen-pona-7x7.ttf",
+			"generatedFileName": "sitelen-pona-7x7.otf"
+		},
+		{
+			"forFilename": "sitelen-pona-7x7.ttf",
+			"generatedFileName": "sitelen-pona-7x7.woff"
+		},
+		{
+			"forFilename": "sitelen-pona-7x7.ttf",
+			"generatedFileName": "sitelen-pona-7x7.woff2"
+		}
+	]
 }

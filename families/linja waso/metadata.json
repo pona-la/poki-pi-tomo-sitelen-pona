@@ -2,24 +2,24 @@
 	"name": "linja waso",
 	"designer": "jan Maku (ItMarki)",
 	"license": "OFL-1.0",
-	"category": 3,
+	"category": "KIWEN",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "linja waso",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "linja-waso-lili-Regular.ttf"
 		},
 		{
 			"name": "linja waso",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 700,
 			"filename": "linja-waso-lili-Bold.ttf"
 		},
 		{
 			"name": "linja waso",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 300,
 			"filename": "linja-waso-lili-Light.ttf"
 		}
@@ -52,5 +52,43 @@
 		]
 	},
 	"version": "1",
-	"lastUpdated": "2022-08-01T04:00:00.000Z"
+	"lastUpdated": "2022-08-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linja-waso-lili-Bold.ttf",
+			"generatedFileName": "linja-waso-lili-Bold.otf"
+		},
+		{
+			"forFilename": "linja-waso-lili-Bold.ttf",
+			"generatedFileName": "linja-waso-lili-Bold.woff"
+		},
+		{
+			"forFilename": "linja-waso-lili-Bold.ttf",
+			"generatedFileName": "linja-waso-lili-Bold.woff2"
+		},
+		{
+			"forFilename": "linja-waso-lili-Light.ttf",
+			"generatedFileName": "linja-waso-lili-Light.otf"
+		},
+		{
+			"forFilename": "linja-waso-lili-Light.ttf",
+			"generatedFileName": "linja-waso-lili-Light.woff"
+		},
+		{
+			"forFilename": "linja-waso-lili-Light.ttf",
+			"generatedFileName": "linja-waso-lili-Light.woff2"
+		},
+		{
+			"forFilename": "linja-waso-lili-Regular.ttf",
+			"generatedFileName": "linja-waso-lili-Regular.otf"
+		},
+		{
+			"forFilename": "linja-waso-lili-Regular.ttf",
+			"generatedFileName": "linja-waso-lili-Regular.woff"
+		},
+		{
+			"forFilename": "linja-waso-lili-Regular.ttf",
+			"generatedFileName": "linja-waso-lili-Regular.woff2"
+		}
+	]
 }

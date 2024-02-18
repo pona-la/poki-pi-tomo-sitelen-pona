@@ -2,12 +2,12 @@
 	"name": "sitelen pona kiwen",
 	"designer": "jan Sewaka(jan Weko)",
 	"license": "CC-BY-SA-3.0",
-	"category": 4,
+	"category": "LEKO",
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
 			"name": "sitelen pona kiwen",
-			"style": 1,
+			"style": "NORMAL",
 			"weight": 400,
 			"filename": "sitelen-pona-kiwen.ttf"
 		}
@@ -31,5 +31,19 @@
 			}
 		]
 	},
-	"lastUpdated": "2023-03-01T05:00:00.000Z"
+	"lastUpdated": "2023-03-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "sitelen-pona-kiwen.ttf",
+			"generatedFileName": "sitelen-pona-kiwen.otf"
+		},
+		{
+			"forFilename": "sitelen-pona-kiwen.ttf",
+			"generatedFileName": "sitelen-pona-kiwen.woff"
+		},
+		{
+			"forFilename": "sitelen-pona-kiwen.ttf",
+			"generatedFileName": "sitelen-pona-kiwen.woff2"
+		}
+	]
 }

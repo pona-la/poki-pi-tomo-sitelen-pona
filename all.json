@@ -854,57 +854,6 @@
 			}
 		]
 	},
-	"linja pimeja pona": {
-		"name": "linja pimeja pona",
-		"designer": "jan Ke Tami",
-		"license": "OFL-1.0",
-		"category": "LINJA_LUKA",
-		"dateAdded": "2024-02-16T06:38:28.373Z",
-		"fonts": [
-			{
-				"name": "linja pimeja pona",
-				"style": "NORMAL",
-				"weight": 400,
-				"filename": "linjapimejapona.otf"
-			}
-		],
-		"asciiLigatures": true,
-		"ucsurCodepoints": false,
-		"cartouches": false,
-		"combinedGlyphs": false,
-		"extendedGlyphs": false,
-		"variantGlyphs": false,
-		"randomizedGlyphs": false,
-		"homepage": "http://antetokipona.infinityfreeapp.com/font/",
-		"source": {
-			"git": {
-				"repositoryUrl": "https://github.com/RetSamys/linja-pimeja-pona",
-				"ref": "main"
-			},
-			"files": [
-				{
-					"sourceFile": "linjapimejapona0.9.otf",
-					"destFile": "linjapimejapona.otf"
-				}
-			]
-		},
-		"version": "0.9",
-		"lastUpdated": "2022-06-01T04:00:00.000Z",
-		"generatedVariants": [
-			{
-				"forFilename": "linjapimejapona.otf",
-				"generatedFileName": "linjapimejapona.otf"
-			},
-			{
-				"forFilename": "linjapimejapona.otf",
-				"generatedFileName": "linjapimejapona.woff"
-			},
-			{
-				"forFilename": "linjapimejapona.otf",
-				"generatedFileName": "linjapimejapona.woff2"
-			}
-		]
-	},
 	"linja pona": {
 		"name": "linja pona",
 		"designer": "David A Roberts / jan Same",

@@ -7,7 +7,7 @@ function check(it) {
 	console.warn(it.stderr.toString())
 }
 
-for (const dir of fs.readdirSync("families")) {
+function handleFamily(dir) {
 	const res = JSON.parse(fs.readFileSync(`families/${dir}/metadata.json`))
 	const fam = md.Family.fromObject(res)
 
@@ -27,3 +27,9 @@ for (const dir of fs.readdirSync("families")) {
 		check(cp.spawnSync('ftcli', ['converter', 'ft2wf', `families/${dir}/${otf}`, `-out`, `generated-variants/${dir}`]))
 	}
 }
+
+handleFamily("sitelen seli kiwen")
+
+// for (const dir of fs.readdirSync("families")) {
+// 	handleFamily(dir)
+// }

@@ -6,6 +6,8 @@
   },
   "scripts": {
     "fetch": "node fetch.mjs",
-    "variants": "node variants.mjs"
+    "make-variants": "node make-variants.mjs",
+    "note-variants": "node note-variants.mjs",
+    "aggregate": "node aggregate.mjs"
   }
 }

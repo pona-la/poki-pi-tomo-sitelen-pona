@@ -16,6 +16,18 @@
 			"style": "NORMAL",
 			"weight": 400,
 			"filename": "sitelenselikiwenjuniko.ttf"
+		},
+		{
+			"name": "sitelen seli kiwen mono asuki",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "sitelenselikiwenmonoasuki.ttf"
+		},
+		{
+			"name": "sitelen seli kiwen mono juniko",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "sitelenselikiwenmonojuniko.ttf"
 		}
 	],
 	"asciiLigatures": true,
@@ -39,16 +51,20 @@
 			{
 				"sourceFile": "sitelenselikiwenjuniko.ttf",
 				"destFile": "sitelenselikiwenjuniko.ttf"
+			},
+			{
+				"sourceFile": "sitelenselikiwenmonoasuki.ttf",
+				"destFile": "sitelenselikiwenmonoasuki.ttf"
+			},
+			{
+				"sourceFile": "sitelenselikiwenmonojuniko.ttf",
+				"destFile": "sitelenselikiwenmonojuniko.ttf"
 			}
 		]
 	},
-	"version": "1.3",
-	"lastUpdated": "2023-11-01T04:00:00.000Z",
+	"version": "1.6.2",
+	"lastUpdated": "2024-03-17T04:00:00.000Z",
 	"generatedVariants": [
-		{
-			"forFilename": "sitelenselikiwenasuki.ttf",
-			"generatedFileName": "sitelenselikiwenasuki.otf"
-		},
 		{
 			"forFilename": "sitelenselikiwenasuki.ttf",
 			"generatedFileName": "sitelenselikiwenasuki.woff"
@@ -58,8 +74,12 @@
 			"generatedFileName": "sitelenselikiwenasuki.woff2"
 		},
 		{
-			"forFilename": "sitelenselikiwenjuniko.ttf",
-			"generatedFileName": "sitelenselikiwenjuniko.otf"
+			"forFilename": "sitelenselikiwenmonoasuki.ttf",
+			"generatedFileName": "sitelenselikiwenmonoasuki.woff"
+		},
+		{
+			"forFilename": "sitelenselikiwenasuki.ttf",
+			"generatedFileName": "sitelenselikiwenasuki.woff2"
 		},
 		{
 			"forFilename": "sitelenselikiwenjuniko.ttf",
@@ -68,6 +88,14 @@
 		{
 			"forFilename": "sitelenselikiwenjuniko.ttf",
 			"generatedFileName": "sitelenselikiwenjuniko.woff2"
+		},
+		{
+			"forFilename": "sitelenselikiwenmonojuniko.ttf",
+			"generatedFileName": "sitelenselikiwenmonojuniko.woff"
+		},
+		{
+			"forFilename": "sitelenselikiwenmonojuniko.ttf",
+			"generatedFileName": "sitelenselikiwenmonojuniko.woff2"
 		}
 	]
 }

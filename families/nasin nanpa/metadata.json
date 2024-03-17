@@ -26,13 +26,13 @@
 		},
 		"files": [
 			{
-				"sourceFile": "versions/nasin-nanpa-2.7.1.otf",
+				"sourceFile": "versions/nasin-nanpa-3.1.0.otf",
 				"destFile": "nasin-nanpa.otf"
 			}
 		]
 	},
-	"version": "2.5.1",
-	"lastUpdated": "2022-06-01T04:00:00.000Z",
+	"version": "3.1.0",
+	"lastUpdated": "2024-02-12T04:00:00.000Z",
 	"generatedVariants": [
 		{
 			"forFilename": "nasin-nanpa.otf",

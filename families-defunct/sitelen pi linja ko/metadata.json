@@ -1,0 +1,48 @@
+{
+	"name": "sitelen pi linja ko",
+	"designer": "increpare / jan Inkepa",
+	"license": "CC0-1.0",
+	"category": "LEKO",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "sitelen pi linja ko",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "sitelen_pi_linja_ko.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"web": {
+			"rootUrl": "https://lp.plop.me/fonts/"
+		},
+		"files": [
+			{
+				"sourceFile": "sitelen_pi_linja_ko.ttf",
+				"destFile": "sitelen_pi_linja_ko.ttf"
+			}
+		]
+	},
+	"lastUpdated": "2022-10-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "sitelen_pi_linja_ko.ttf",
+			"generatedFileName": "sitelen_pi_linja_ko.otf"
+		},
+		{
+			"forFilename": "sitelen_pi_linja_ko.ttf",
+			"generatedFileName": "sitelen_pi_linja_ko.woff"
+		},
+		{
+			"forFilename": "sitelen_pi_linja_ko.ttf",
+			"generatedFileName": "sitelen_pi_linja_ko.woff2"
+		}
+	]
+}

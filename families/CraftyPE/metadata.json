@@ -6,10 +6,10 @@
 	"dateAdded": "2024-02-16T06:38:28.373Z",
 	"fonts": [
 		{
-			"name": "CraftyPE",
+			"name": "CraftyPE-Regular",
 			"style": "NORMAL",
 			"weight": 400,
-			"filename": "CraftyPE.otf"
+			"filename": "CraftyPE-Regular.otf"
 		}
 	],
 	"asciiLigatures": false,
@@ -26,25 +26,33 @@
 		},
 		"files": [
 			{
-				"sourceFile": "CraftyPE.otf",
-				"destFile": "CraftyPE.otf"
+				"sourceFile": "Font Files/ttf/static fonts/CraftyPE-Regular.ttf",
+				"destFile": "CraftyPE-Regular.ttf"
+			},
+			{
+				"sourceFile": "Font Files/woff woff2/static fonts/CraftyPE-Regular.woff2",
+				"destFile": "CraftyPE-Regular.woff2"
+			},
+			{
+				"sourceFile": "Font Files/woff woff2/static fonts/woff/CraftyPE-Regular.woff",
+				"destFile": "CraftyPE-Regular.woff"
 			}
 		]
 	},
 	"version": "beta 5",
-	"lastUpdated": "2023-04-01T04:00:00.000Z",
+	"lastUpdated": "2024-04-05T04:00:00.000Z",
 	"generatedVariants": [
 		{
-			"forFilename": "CraftyPE.otf",
-			"generatedFileName": "CraftyPE.otf"
+			"forFilename": "CraftyPE-Regular.ttf",
+			"generatedFileName": "CraftyPE-Regular.otf"
 		},
 		{
-			"forFilename": "CraftyPE.otf",
-			"generatedFileName": "CraftyPE.woff"
+			"forFilename": "CraftyPE-Regular.ttf",
+			"generatedFileName": "CraftyPE-Regular.woff"
 		},
 		{
-			"forFilename": "CraftyPE.otf",
-			"generatedFileName": "CraftyPE.woff2"
+			"forFilename": "CraftyPE-Regular.otf",
+			"generatedFileName": "CraftyPE-Regular.woff2"
 		}
 	]
 }

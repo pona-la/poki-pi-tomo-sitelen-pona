@@ -1,0 +1,50 @@
+{
+	"name": "linja Sipiki",
+	"designer": "jan Sipiki & jan Ke Tami",
+	"license": "OFL-1.0",
+	"category": "LEKO",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja Sipiki",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "linjaSipiki.otf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": true,
+	"cartouches": true,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/janSipiki/linja-Sipiki",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "linjaSipiki_v1.3.otf",
+				"destFile": "linjaSipiki.otf"
+			}
+		]
+	},
+	"version": "1.3",
+	"lastUpdated": "2023-12-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linjaSipiki.otf",
+			"generatedFileName": "linjaSipiki.otf"
+		},
+		{
+			"forFilename": "linjaSipiki.otf",
+			"generatedFileName": "linjaSipiki.woff"
+		},
+		{
+			"forFilename": "linjaSipiki.otf",
+			"generatedFileName": "linjaSipiki.woff2"
+		}
+	]
+}

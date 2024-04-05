@@ -1,0 +1,49 @@
+{
+	"name": "sitelen pi jan Soja",
+	"designer": "jan Soja",
+	"license": "OFL-1.0",
+	"category": "LEKO",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "sitelen pi jan Soja",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "sitelen_pi_jan_Soja.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"web": {
+			"rootUrl": "https://cdn.discordapp.com/attachments/948449040008347649/1059574539551514714"
+		},
+		"files": [
+			{
+				"sourceFile": "sitelen_pi_jan_Soja.ttf",
+				"destFile": "sitelen_pi_jan_Soja.ttf"
+			}
+		]
+	},
+	"version": "1.0",
+	"lastUpdated": "2023-02-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "sitelen_pi_jan_Soja.ttf",
+			"generatedFileName": "sitelen_pi_jan_Soja.otf"
+		},
+		{
+			"forFilename": "sitelen_pi_jan_Soja.ttf",
+			"generatedFileName": "sitelen_pi_jan_Soja.woff"
+		},
+		{
+			"forFilename": "sitelen_pi_jan_Soja.ttf",
+			"generatedFileName": "sitelen_pi_jan_Soja.woff2"
+		}
+	]
+}

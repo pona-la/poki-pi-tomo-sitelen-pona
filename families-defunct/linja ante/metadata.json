@@ -1,0 +1,50 @@
+{
+	"name": "linja ante",
+	"designer": "jan Melon",
+	"license": "CC0-1.0",
+	"category": "KIWEN",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja ante",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "linja-ante.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "https://nilakayas.neocities.org/karya/linja-ante.html",
+	"source": {
+		"web": {
+			"rootUrl": "https://nilakayas.neocities.org/karya"
+		},
+		"files": [
+			{
+				"sourceFile": "linja-ante.ttf",
+				"destFile": "linja-ante.ttf"
+			}
+		]
+	},
+	"version": "2.1",
+	"lastUpdated": "2021-02-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linja-ante.ttf",
+			"generatedFileName": "linja-ante.otf"
+		},
+		{
+			"forFilename": "linja-ante.ttf",
+			"generatedFileName": "linja-ante.woff"
+		},
+		{
+			"forFilename": "linja-ante.ttf",
+			"generatedFileName": "linja-ante.woff2"
+		}
+	]
+}

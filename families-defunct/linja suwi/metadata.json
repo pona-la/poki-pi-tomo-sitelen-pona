@@ -1,0 +1,51 @@
+{
+	"name": "linja suwi",
+	"designer": "jan Ana",
+	"license": "OFL-1.0",
+	"category": "LINJA_ILO",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja suwi",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "linjasuwi.otf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": true,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "https://linjasuwi.ap5.dev/",
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/anna328p/linjasuwi/",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "linjasuwi.otf",
+				"destFile": "linjasuwi.otf"
+			}
+		]
+	},
+	"version": "1.301",
+	"lastUpdated": "2021-09-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linjasuwi.otf",
+			"generatedFileName": "linjasuwi.otf"
+		},
+		{
+			"forFilename": "linjasuwi.otf",
+			"generatedFileName": "linjasuwi.woff"
+		},
+		{
+			"forFilename": "linjasuwi.otf",
+			"generatedFileName": "linjasuwi.woff2"
+		}
+	]
+}

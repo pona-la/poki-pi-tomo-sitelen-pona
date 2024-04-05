@@ -10,9 +10,15 @@
 			"style": "NORMAL",
 			"weight": 400,
 			"filename": "Fairfax.ttf"
+		},
+		{
+			"name": "FairfaxPona",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "FairfaxPona.ttf"
 		}
 	],
-	"asciiLigatures": false,
+	"asciiLigatures": true,
 	"ucsurCodepoints": true,
 	"cartouches": true,
 	"combinedGlyphs": true,
@@ -29,11 +35,15 @@
 			{
 				"sourceFile": "Fairfax/Fairfax.ttf",
 				"destFile": "Fairfax.ttf"
+			},
+			{
+				"sourceFile": "Fairfax/FairfaxPona.ttf",
+				"destFile": "FairfaxPona.ttf"
 			}
 		]
 	},
-	"version": "2023.10.28",
-	"lastUpdated": "2023-11-01T04:00:00.000Z",
+	"version": "2024.02.29",
+	"lastUpdated": "2024-04-05T04:00:00.000Z",
 	"generatedVariants": [
 		{
 			"forFilename": "Fairfax.ttf",
@@ -46,6 +56,18 @@
 		{
 			"forFilename": "Fairfax.ttf",
 			"generatedFileName": "Fairfax.woff2"
+		},
+		{
+			"forFilename": "FairfaxPona.ttf",
+			"generatedFileName": "Fairfax.otf"
+		},
+		{
+			"forFilename": "FairfaxPona.ttf",
+			"generatedFileName": "FairfaxPona.woff"
+		},
+		{
+			"forFilename": "FairfaxPona.ttf",
+			"generatedFileName": "FairfaxPona.woff2"
 		}
 	]
 }

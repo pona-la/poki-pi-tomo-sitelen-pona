@@ -1,0 +1,49 @@
+{
+	"name": "nasin luka",
+	"designer": "trollbreeder",
+	"license": "OFL-1.0",
+	"category": "LINJA_LUKA",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "nasin luka",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "nasin_luka.otf"
+		}
+	],
+	"asciiLigatures": false,
+	"ucsurCodepoints": true,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"web": {
+			"rootUrl": "https://cdn.discordapp.com/attachments/952797418381000806/1095108756892811304"
+		},
+		"files": [
+			{
+				"sourceFile": "nasin_luka_1.2.otf",
+				"destFile": "nasin_luka.otf"
+			}
+		]
+	},
+	"version": "1.2",
+	"lastUpdated": "2023-05-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "nasin_luka.otf",
+			"generatedFileName": "nasin_luka.otf"
+		},
+		{
+			"forFilename": "nasin_luka.otf",
+			"generatedFileName": "nasin_luka.woff"
+		},
+		{
+			"forFilename": "nasin_luka.otf",
+			"generatedFileName": "nasin_luka.woff2"
+		}
+	]
+}

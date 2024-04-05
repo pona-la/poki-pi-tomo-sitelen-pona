@@ -1,0 +1,49 @@
+{
+	"name": "Sevenish SP",
+	"designer": "Nico \"SauceDLX\"",
+	"license": "MIT",
+	"category": "LEKO",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "Sevenish SP",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "SevenishSP.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": true,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"web": {
+			"rootUrl": "https://saucedlx.neocities.org"
+		},
+		"files": [
+			{
+				"sourceFile": "SevenishSP.ttf",
+				"destFile": "SevenishSP.ttf"
+			}
+		]
+	},
+	"version": "1.0",
+	"lastUpdated": "2023-04-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "SevenishSP.ttf",
+			"generatedFileName": "SevenishSP.otf"
+		},
+		{
+			"forFilename": "SevenishSP.ttf",
+			"generatedFileName": "SevenishSP.woff"
+		},
+		{
+			"forFilename": "SevenishSP.ttf",
+			"generatedFileName": "SevenishSP.woff2"
+		}
+	]
+}

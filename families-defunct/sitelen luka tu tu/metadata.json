@@ -1,0 +1,50 @@
+{
+	"name": "sitelen luka tu tu",
+	"designer": "increpare / jan Inkepa",
+	"license": "CC0-1.0",
+	"category": "LEKO",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "sitelen luka tu tu",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "sitelen_luka_tu_tu.ttf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": false,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/pguimier/pali-sitelen",
+			"ref": "master"
+		},
+		"files": [
+			{
+				"sourceFile": "plugins/sitelenlukatutu/sitelen_luka_tu_tu.ttf",
+				"destFile": "sitelen_luka_tu_tu.ttf"
+			}
+		]
+	},
+	"version": "0.1",
+	"lastUpdated": "2019-12-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "sitelen_luka_tu_tu.ttf",
+			"generatedFileName": "sitelen_luka_tu_tu.otf"
+		},
+		{
+			"forFilename": "sitelen_luka_tu_tu.ttf",
+			"generatedFileName": "sitelen_luka_tu_tu.woff"
+		},
+		{
+			"forFilename": "sitelen_luka_tu_tu.ttf",
+			"generatedFileName": "sitelen_luka_tu_tu.woff2"
+		}
+	]
+}

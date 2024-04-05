@@ -1,0 +1,51 @@
+{
+	"name": "linja lipamanka",
+	"designer": "lipamanka",
+	"license": "OFL-1.0",
+	"category": "LINJA_ILO",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "linja lipamanka",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "linjalipamanka-normal.otf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": true,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"homepage": "https://lipamanka.gay/linjamanka",
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/lipamanka/linja-lipamanka-0",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "linjalipamanka-normal.otf",
+				"destFile": "linjalipamanka-normal.otf"
+			}
+		]
+	},
+	"version": "0.0",
+	"lastUpdated": "2023-02-01T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linjalipamanka-normal.otf",
+			"generatedFileName": "linjalipamanka-normal.otf"
+		},
+		{
+			"forFilename": "linjalipamanka-normal.otf",
+			"generatedFileName": "linjalipamanka-normal.woff"
+		},
+		{
+			"forFilename": "linjalipamanka-normal.otf",
+			"generatedFileName": "linjalipamanka-normal.woff2"
+		}
+	]
+}

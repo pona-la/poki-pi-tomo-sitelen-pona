@@ -1,0 +1,50 @@
+{
+	"name": "nasin sitelen pu mono",
+	"designer": "jan Ke Tami",
+	"license": "CC0-1.0",
+	"category": "LINJA_LUKA",
+	"dateAdded": "2024-02-16T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "nasin sitelen pu mono",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "NasinSitelenPuMono.otf"
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": true,
+	"cartouches": false,
+	"combinedGlyphs": false,
+	"extendedGlyphs": false,
+	"variantGlyphs": false,
+	"randomizedGlyphs": false,
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/RetSamys/nasin-sitelen-pu",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "NasinSitelenPuMono.otf",
+				"destFile": "NasinSitelenPuMono.otf"
+			}
+		]
+	},
+	"version": "2.0",
+	"lastUpdated": "2023-04-01T04:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "NasinSitelenPuMono.otf",
+			"generatedFileName": "NasinSitelenPuMono.otf"
+		},
+		{
+			"forFilename": "NasinSitelenPuMono.otf",
+			"generatedFileName": "NasinSitelenPuMono.woff"
+		},
+		{
+			"forFilename": "NasinSitelenPuMono.otf",
+			"generatedFileName": "NasinSitelenPuMono.woff2"
+		}
+	]
+}

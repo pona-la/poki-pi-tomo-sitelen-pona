@@ -28,7 +28,7 @@ function handleFamily(dir) {
 	}
 }
 
-handleFamily("nasin nanpa")
+handleFamily("linja sike")
 
 // for (const dir of fs.readdirSync("families")) {
 // 	handleFamily(dir)

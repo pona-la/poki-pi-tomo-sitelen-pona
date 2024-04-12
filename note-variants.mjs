@@ -33,7 +33,7 @@ function handleFamily(dir) {
 	fs.writeFileSync(`families/${dir}/metadata.json`, JSON.stringify(fam.toJSON(), null, "\t"))
 }
 
-handleFamily("sitelen seli kiwen")
+handleFamily("linja sike")
 
 // for (const dir of fs.readdirSync("families")) {
 // 	handleFamily(dir)

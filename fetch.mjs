@@ -41,8 +41,7 @@ async function handleFamily(dir) {
 	}
 }
 
-handleFamily("Fairfax")
-handleFamily("FairfaxHD")
+// handleFamily("linja sike")
 
 // for (const dir of fs.readdirSync("families")) {
 // 	if (dir == "linja wawa") {

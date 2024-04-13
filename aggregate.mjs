@@ -1,4 +1,5 @@
 import * as fs from 'fs';
+import { compress } from 'compress-json'
 
 const res = {}
 
@@ -7,4 +8,4 @@ for (const dir of fs.readdirSync("families")) {
 	res[dir] = it
 }
 
-fs.writeFileSync(`all.json`, JSON.stringify(res, null, "\t"))
+fs.writeFileSync(`all.json`, JSON.stringify(compress(res), null, "\t"))

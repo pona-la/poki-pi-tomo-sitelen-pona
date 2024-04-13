@@ -9,16 +9,8406 @@
 			"name": "linja pona",
 			"style": "NORMAL",
 			"weight": 400,
-			"filename": "linja-pona.otf"
+			"filename": "linja-pona.otf",
+			"characters": [
+				{
+					"unicode": "\u0000",
+					"category": "Separator",
+					"description": "????",
+					"production": "uni0000",
+					"script": "other"
+				},
+				{
+					"unicode": "\r",
+					"category": "Separator",
+					"description": "????",
+					"production": "uni000D",
+					"script": "other"
+				},
+				{
+					"unicode": " ",
+					"category": "Separator",
+					"description": "SPACE",
+					"production": "space",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": "!",
+					"category": "Punctuation",
+					"description": "EXCLAMATION MARK",
+					"production": "exclam",
+					"script": "other"
+				},
+				{
+					"unicode": "\"",
+					"category": "Punctuation",
+					"description": "QUOTATION MARK",
+					"production": "quotedbl",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "#",
+					"category": "Punctuation",
+					"description": "NUMBER SIGN",
+					"production": "numbersign",
+					"script": "other"
+				},
+				{
+					"unicode": "$",
+					"category": "Symbol",
+					"description": "DOLLAR SIGN",
+					"production": "dollar",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "%",
+					"category": "Symbol",
+					"description": "PERCENT SIGN",
+					"production": "percent",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "&",
+					"category": "Symbol",
+					"description": "AMPERSAND",
+					"production": "ampersand",
+					"script": "other"
+				},
+				{
+					"unicode": "'",
+					"category": "Punctuation",
+					"description": "APOSTROPHE",
+					"production": "quotesingle",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "(",
+					"category": "Punctuation",
+					"description": "LEFT PARENTHESIS",
+					"production": "parenleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": ")",
+					"category": "Punctuation",
+					"description": "RIGHT PARENTHESIS",
+					"production": "parenright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "*",
+					"category": "Punctuation",
+					"description": "ASTERISK",
+					"production": "asterisk",
+					"script": "other"
+				},
+				{
+					"unicode": "+",
+					"category": "Symbol",
+					"description": "PLUS SIGN",
+					"production": "plus",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": ",",
+					"category": "Punctuation",
+					"description": "COMMA",
+					"production": "comma",
+					"script": "other"
+				},
+				{
+					"unicode": "-",
+					"category": "Punctuation",
+					"description": "HYPHEN-MINUS",
+					"production": "hyphen",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": ".",
+					"category": "Punctuation",
+					"description": "FULL STOP",
+					"production": "period",
+					"script": "other"
+				},
+				{
+					"unicode": "/",
+					"category": "Punctuation",
+					"description": "SOLIDUS",
+					"production": "slash",
+					"script": "other"
+				},
+				{
+					"unicode": "0",
+					"category": "Number",
+					"description": "DIGIT ZERO",
+					"production": "zero",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "1",
+					"category": "Number",
+					"description": "DIGIT ONE",
+					"production": "one",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "2",
+					"category": "Number",
+					"description": "DIGIT TWO",
+					"production": "two",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "3",
+					"category": "Number",
+					"description": "DIGIT THREE",
+					"production": "three",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "4",
+					"category": "Number",
+					"description": "DIGIT FOUR",
+					"production": "four",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "5",
+					"category": "Number",
+					"description": "DIGIT FIVE",
+					"production": "five",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "6",
+					"category": "Number",
+					"description": "DIGIT SIX",
+					"production": "six",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "7",
+					"category": "Number",
+					"description": "DIGIT SEVEN",
+					"production": "seven",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "8",
+					"category": "Number",
+					"description": "DIGIT EIGHT",
+					"production": "eight",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "9",
+					"category": "Number",
+					"description": "DIGIT NINE",
+					"production": "nine",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": ":",
+					"category": "Punctuation",
+					"description": "COLON",
+					"production": "colon",
+					"script": "other"
+				},
+				{
+					"unicode": ";",
+					"category": "Punctuation",
+					"description": "SEMICOLON",
+					"production": "semicolon",
+					"script": "other"
+				},
+				{
+					"unicode": "<",
+					"category": "Symbol",
+					"description": "LESS-THAN SIGN",
+					"production": "less",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "=",
+					"category": "Symbol",
+					"description": "EQUALS SIGN",
+					"production": "equal",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": ">",
+					"category": "Symbol",
+					"description": "GREATER-THAN SIGN",
+					"production": "greater",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "?",
+					"category": "Punctuation",
+					"description": "QUESTION MARK",
+					"production": "question",
+					"script": "other"
+				},
+				{
+					"unicode": "@",
+					"category": "Symbol",
+					"description": "COMMERCIAL AT",
+					"production": "at",
+					"script": "other"
+				},
+				{
+					"unicode": "A",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A",
+					"production": "A",
+					"script": "latin"
+				},
+				{
+					"unicode": "B",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER B",
+					"production": "B",
+					"script": "latin"
+				},
+				{
+					"unicode": "C",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C",
+					"production": "C",
+					"script": "latin"
+				},
+				{
+					"unicode": "D",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER D",
+					"production": "D",
+					"script": "latin"
+				},
+				{
+					"unicode": "E",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E",
+					"production": "E",
+					"script": "latin"
+				},
+				{
+					"unicode": "F",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER F",
+					"production": "F",
+					"script": "latin"
+				},
+				{
+					"unicode": "G",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER G",
+					"production": "G",
+					"script": "latin"
+				},
+				{
+					"unicode": "H",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER H",
+					"production": "H",
+					"script": "latin"
+				},
+				{
+					"unicode": "I",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I",
+					"production": "I",
+					"script": "latin"
+				},
+				{
+					"unicode": "J",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER J",
+					"production": "J",
+					"script": "latin"
+				},
+				{
+					"unicode": "K",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER K",
+					"production": "K",
+					"script": "latin"
+				},
+				{
+					"unicode": "L",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER L",
+					"production": "L",
+					"script": "latin"
+				},
+				{
+					"unicode": "M",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER M",
+					"production": "M",
+					"script": "latin"
+				},
+				{
+					"unicode": "N",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N",
+					"production": "N",
+					"script": "latin"
+				},
+				{
+					"unicode": "O",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O",
+					"production": "O",
+					"script": "latin"
+				},
+				{
+					"unicode": "P",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER P",
+					"production": "P",
+					"script": "latin"
+				},
+				{
+					"unicode": "Q",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Q",
+					"production": "Q",
+					"script": "latin"
+				},
+				{
+					"unicode": "R",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER R",
+					"production": "R",
+					"script": "latin"
+				},
+				{
+					"unicode": "S",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S",
+					"production": "S",
+					"script": "latin"
+				},
+				{
+					"unicode": "T",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER T",
+					"production": "T",
+					"script": "latin"
+				},
+				{
+					"unicode": "U",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U",
+					"production": "U",
+					"script": "latin"
+				},
+				{
+					"unicode": "V",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER V",
+					"production": "V",
+					"script": "latin"
+				},
+				{
+					"unicode": "W",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER W",
+					"production": "W",
+					"script": "latin"
+				},
+				{
+					"unicode": "X",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER X",
+					"production": "X",
+					"script": "latin"
+				},
+				{
+					"unicode": "Y",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y",
+					"production": "Y",
+					"script": "latin"
+				},
+				{
+					"unicode": "Z",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z",
+					"production": "Z",
+					"script": "latin"
+				},
+				{
+					"unicode": "[",
+					"category": "Punctuation",
+					"description": "LEFT SQUARE BRACKET",
+					"production": "bracketleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "\\",
+					"category": "Punctuation",
+					"description": "REVERSE SOLIDUS",
+					"production": "backslash",
+					"script": "other"
+				},
+				{
+					"unicode": "]",
+					"category": "Punctuation",
+					"description": "RIGHT SQUARE BRACKET",
+					"production": "bracketright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "^",
+					"category": "Symbol",
+					"description": "CIRCUMFLEX ACCENT",
+					"production": "asciicircum",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "_",
+					"category": "Punctuation",
+					"description": "LOW LINE",
+					"production": "underscore",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "`",
+					"category": "Mark",
+					"description": "GRAVE ACCENT",
+					"production": "grave",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "a",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A",
+					"production": "a",
+					"script": "latin"
+				},
+				{
+					"unicode": "b",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER B",
+					"production": "b",
+					"script": "latin"
+				},
+				{
+					"unicode": "c",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER C",
+					"production": "c",
+					"script": "latin"
+				},
+				{
+					"unicode": "d",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER D",
+					"production": "d",
+					"script": "latin"
+				},
+				{
+					"unicode": "e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER E",
+					"production": "e",
+					"script": "latin"
+				},
+				{
+					"unicode": "f",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER F",
+					"production": "f",
+					"script": "latin"
+				},
+				{
+					"unicode": "g",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER G",
+					"production": "g",
+					"script": "latin"
+				},
+				{
+					"unicode": "h",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER H",
+					"production": "h",
+					"script": "latin"
+				},
+				{
+					"unicode": "i",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER I",
+					"production": "i",
+					"script": "latin"
+				},
+				{
+					"unicode": "j",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER J",
+					"production": "j",
+					"script": "latin"
+				},
+				{
+					"unicode": "k",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER K",
+					"production": "k",
+					"script": "latin"
+				},
+				{
+					"unicode": "l",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER L",
+					"production": "l",
+					"script": "latin"
+				},
+				{
+					"unicode": "m",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER M",
+					"production": "m",
+					"script": "latin"
+				},
+				{
+					"unicode": "n",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER N",
+					"production": "n",
+					"script": "latin"
+				},
+				{
+					"unicode": "o",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O",
+					"production": "o",
+					"script": "latin"
+				},
+				{
+					"unicode": "p",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER P",
+					"production": "p",
+					"script": "latin"
+				},
+				{
+					"unicode": "q",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Q",
+					"production": "q",
+					"script": "latin"
+				},
+				{
+					"unicode": "r",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER R",
+					"production": "r",
+					"script": "latin"
+				},
+				{
+					"unicode": "s",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S",
+					"production": "s",
+					"script": "latin"
+				},
+				{
+					"unicode": "t",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER T",
+					"production": "t",
+					"script": "latin"
+				},
+				{
+					"unicode": "u",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U",
+					"production": "u",
+					"script": "latin"
+				},
+				{
+					"unicode": "v",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER V",
+					"production": "v",
+					"script": "latin"
+				},
+				{
+					"unicode": "w",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER W",
+					"production": "w",
+					"script": "latin"
+				},
+				{
+					"unicode": "x",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER X",
+					"production": "x",
+					"script": "latin"
+				},
+				{
+					"unicode": "y",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Y",
+					"production": "y",
+					"script": "latin"
+				},
+				{
+					"unicode": "z",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Z",
+					"production": "z",
+					"script": "latin"
+				},
+				{
+					"unicode": "{",
+					"category": "Punctuation",
+					"description": "LEFT CURLY BRACKET",
+					"production": "braceleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "|",
+					"category": "Symbol",
+					"description": "VERTICAL LINE",
+					"production": "bar",
+					"script": "other"
+				},
+				{
+					"unicode": "}",
+					"category": "Punctuation",
+					"description": "RIGHT CURLY BRACKET",
+					"production": "braceright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "~",
+					"category": "Symbol",
+					"description": "TILDE",
+					"production": "asciitilde",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a0",
+					"category": "Separator",
+					"description": "NO-BREAK SPACE",
+					"production": "uni00A0",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a1",
+					"category": "Punctuation",
+					"description": "INVERTED EXCLAMATION MARK",
+					"production": "exclamdown",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a2",
+					"category": "Symbol",
+					"description": "CENT SIGN",
+					"production": "cent",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a3",
+					"category": "Symbol",
+					"description": "POUND SIGN",
+					"production": "sterling",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a4",
+					"category": "Symbol",
+					"description": "CURRENCY SIGN",
+					"production": "currency",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a5",
+					"category": "Symbol",
+					"description": "YEN SIGN",
+					"production": "yen",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a6",
+					"category": "Symbol",
+					"description": "BROKEN BAR",
+					"production": "brokenbar",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a7",
+					"category": "Symbol",
+					"description": "SECTION SIGN",
+					"production": "section",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a8",
+					"category": "Mark",
+					"description": "DIAERESIS",
+					"production": "dieresis",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a9",
+					"category": "Symbol",
+					"description": "COPYRIGHT SIGN",
+					"production": "copyright",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00aa",
+					"category": "Letter",
+					"description": "FEMININE ORDINAL INDICATOR",
+					"production": "ordfeminine",
+					"subcategory": "Superscript",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00ab",
+					"category": "Punctuation",
+					"description": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+					"production": "guillemotleft",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ac",
+					"category": "Symbol",
+					"description": "NOT SIGN",
+					"production": "logicalnot",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ad",
+					"category": "Punctuation",
+					"description": "SOFT HYPHEN",
+					"production": "uni00AD",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ae",
+					"category": "Symbol",
+					"description": "REGISTERED SIGN",
+					"production": "registered",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00af",
+					"category": "Mark",
+					"description": "MACRON",
+					"production": "macron",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b0",
+					"category": "Symbol",
+					"description": "DEGREE SIGN",
+					"production": "degree",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b1",
+					"category": "Symbol",
+					"description": "PLUS-MINUS SIGN",
+					"production": "plusminus",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b2",
+					"category": "Number",
+					"description": "SUPERSCRIPT TWO",
+					"production": "twosuperior",
+					"subcategory": "Small",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b3",
+					"category": "Number",
+					"description": "SUPERSCRIPT THREE",
+					"production": "threesuperior",
+					"subcategory": "Small",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b4",
+					"category": "Mark",
+					"description": "ACUTE ACCENT",
+					"production": "acute",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b5",
+					"category": "Symbol",
+					"description": "MICRO SIGN",
+					"production": "uni00B5",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b6",
+					"category": "Symbol",
+					"description": "PILCROW SIGN",
+					"production": "paragraph",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b7",
+					"category": "Punctuation",
+					"description": "MIDDLE DOT",
+					"production": "periodcentered",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b8",
+					"category": "Mark",
+					"description": "CEDILLA",
+					"production": "cedilla",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b9",
+					"category": "Number",
+					"description": "SUPERSCRIPT ONE",
+					"production": "onesuperior",
+					"subcategory": "Small",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ba",
+					"category": "Letter",
+					"description": "MASCULINE ORDINAL INDICATOR",
+					"production": "ordmasculine",
+					"subcategory": "Superscript",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00bb",
+					"category": "Punctuation",
+					"description": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+					"production": "guillemotright",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00bc",
+					"category": "Number",
+					"description": "VULGAR FRACTION ONE QUARTER",
+					"production": "onequarter",
+					"subcategory": "Fraction",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00bd",
+					"category": "Number",
+					"description": "VULGAR FRACTION ONE HALF",
+					"production": "onehalf",
+					"subcategory": "Fraction",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00be",
+					"category": "Number",
+					"description": "VULGAR FRACTION THREE QUARTERS",
+					"production": "threequarters",
+					"subcategory": "Fraction",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00bf",
+					"category": "Punctuation",
+					"description": "INVERTED QUESTION MARK",
+					"production": "questiondown",
+					"script": "other"
+				},
+				{
+					"unicode": "\u0152",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LIGATURE OE",
+					"production": "OE",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0153",
+					"category": "Letter",
+					"description": "LATIN SMALL LIGATURE OE",
+					"production": "oe",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0160",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S WITH CARON",
+					"production": "Scaron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0161",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S WITH CARON",
+					"production": "scaron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0178",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y WITH DIAERESIS",
+					"production": "Ydieresis",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u017d",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z WITH CARON",
+					"production": "Zcaron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u017e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Z WITH CARON",
+					"production": "zcaron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0192",
+					"category": "Symbol",
+					"description": "LATIN SMALL LETTER F WITH HOOK",
+					"production": "florin",
+					"subcategory": "Currency",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u02c6",
+					"category": "Mark",
+					"description": "MODIFIER LETTER CIRCUMFLEX ACCENT",
+					"production": "circumflex",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u02dc",
+					"category": "Mark",
+					"description": "SMALL TILDE",
+					"production": "tilde",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2013",
+					"category": "Punctuation",
+					"description": "EN DASH",
+					"production": "endash",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2014",
+					"category": "Punctuation",
+					"description": "EM DASH",
+					"production": "emdash",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2018",
+					"category": "Punctuation",
+					"description": "LEFT SINGLE QUOTATION MARK",
+					"production": "quoteleft",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2019",
+					"category": "Punctuation",
+					"description": "RIGHT SINGLE QUOTATION MARK",
+					"production": "quoteright",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u201a",
+					"category": "Punctuation",
+					"description": "SINGLE LOW-9 QUOTATION MARK",
+					"production": "quotesinglbase",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u201c",
+					"category": "Punctuation",
+					"description": "LEFT DOUBLE QUOTATION MARK",
+					"production": "quotedblleft",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u201d",
+					"category": "Punctuation",
+					"description": "RIGHT DOUBLE QUOTATION MARK",
+					"production": "quotedblright",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u201e",
+					"category": "Punctuation",
+					"description": "DOUBLE LOW-9 QUOTATION MARK",
+					"production": "quotedblbase",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2020",
+					"category": "Symbol",
+					"description": "DAGGER",
+					"production": "dagger",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2021",
+					"category": "Symbol",
+					"description": "DOUBLE DAGGER",
+					"production": "daggerdbl",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2022",
+					"category": "Punctuation",
+					"description": "BULLET",
+					"production": "bullet",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2026",
+					"category": "Punctuation",
+					"description": "HORIZONTAL ELLIPSIS",
+					"production": "ellipsis",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2030",
+					"category": "Symbol",
+					"description": "PER MILLE SIGN",
+					"production": "perthousand",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2039",
+					"category": "Punctuation",
+					"description": "SINGLE LEFT-POINTING ANGLE QUOTATION MARK",
+					"production": "guilsinglleft",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u203a",
+					"category": "Punctuation",
+					"description": "SINGLE RIGHT-POINTING ANGLE QUOTATION MARK",
+					"production": "guilsinglright",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u20ac",
+					"category": "Symbol",
+					"description": "EURO SIGN",
+					"production": "Euro",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2122",
+					"category": "Symbol",
+					"description": "TRADE MARK SIGN",
+					"production": "trademark",
+					"script": "other"
+				},
+				{
+					"unicode": "\ue600",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE600",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue601",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE601",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue602",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE602",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue603",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE603",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue604",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE604",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue605",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE605",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue606",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE606",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue607",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE607",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue608",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE608",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue609",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE609",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue610",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE610",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue611",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE611",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue612",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE612",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue613",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE613",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue614",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE614",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue615",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE615",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue616",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE616",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue617",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE617",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue618",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE618",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue619",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE619",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue620",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE620",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue621",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE621",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue622",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE622",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue623",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE623",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue624",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE624",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue625",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE625",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue626",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE626",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue627",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE627",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue628",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE628",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue629",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE629",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue630",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE630",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue631",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE631",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue632",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE632",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue633",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE633",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue634",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE634",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue635",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE635",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue636",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE636",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue637",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE637",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue638",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE638",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue639",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE639",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue640",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE640",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue641",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE641",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue642",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE642",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue643",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE643",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue644",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE644",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue645",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE645",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue646",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE646",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue647",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE647",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue648",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE648",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue649",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE649",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue650",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE650",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue651",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE651",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue652",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE652",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue653",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE653",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue654",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE654",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue655",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE655",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue656",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE656",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue657",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE657",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue658",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE658",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue659",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE659",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue660",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE660",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue661",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE661",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue662",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE662",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue663",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE663",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue664",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE664",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue665",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE665",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue666",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE666",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue667",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE667",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue668",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE668",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue669",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE669",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue670",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE670",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue671",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE671",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue672",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE672",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue673",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE673",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue674",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE674",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue675",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE675",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue676",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE676",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue677",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE677",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue679",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE679",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue680",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE680",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue681",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE681",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue682",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE682",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue683",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE683",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue685",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE685",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue686",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE686",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue687",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE687",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue688",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE688",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue689",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE689",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue690",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE690",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue691",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE691",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue692",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE692",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue693",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE693",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue694",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE694",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue695",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE695",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue696",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE696",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue718",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE718",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue719",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE719",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue720",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE720",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue721",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE721",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue722",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE722",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue723",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE723",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue724",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE724",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue725",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE725",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue726",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE726",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue727",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE727",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue728",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE728",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue730",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE730",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue731",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE731",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue732",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE732",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue800",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE800",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue801",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE801",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue805",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE805",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue812",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE812",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue813",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE813",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue818",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE818",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue819",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE819",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue820",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE820",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue823",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE823",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue824",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE824",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue825",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE825",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue826",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE826",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue827",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE827",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue828",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE828",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue829",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE829",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue830",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE830",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue831",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE831",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue835",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE835",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue836",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE836",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue837",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE837",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue838",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE838",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue840",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE840",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue842",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE842",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue843",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE843",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue850",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE850",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue851",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE851",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue864",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE864",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue865",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE865",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue866",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE866",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue867",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE867",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue870",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE870",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue871",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE871",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue872",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE872",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue896",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE896",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue913",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE913",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue915",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE915",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue917",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE917",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue919",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE919",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue921",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE921",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue923",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE923",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue925",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE925",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue930",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE930",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue941",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE941",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue942",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE942",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue943",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE943",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue944",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE944",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue945",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE945",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue946",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE946",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue947",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE947",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue948",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE948",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue949",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE949",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue94a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE94A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue950",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE950",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue955",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE955",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue961",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE961",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue990",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE990",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue991",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE991",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue996",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE996",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf004",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF004",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf010",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF010",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf011",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF011",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf012",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF012",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf013",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF013",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf014",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF014",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf015",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF015",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf020",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF020",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf021",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF021",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf022",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF022",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf024",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF024",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf025",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF025",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf026",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF026",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf027",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF027",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf028",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF028",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf029",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF029",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf02a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF02A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf036",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF036",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf038",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF038",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf062",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF062",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf064",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF064",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf065",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF065",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf070",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF070",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf101",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF101",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf102",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF102",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf103",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF103",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf104",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF104",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf105",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF105",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf106",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF106",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf107",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF107",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf108",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF108",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf109",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF109",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf110",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF110",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf111",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF111",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf112",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF112",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf113",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF113",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf114",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF114",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf115",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF115",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf116",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF116",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf117",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF117",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf118",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF118",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf119",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF119",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf120",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF120",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf121",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF121",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf122",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF122",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf123",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF123",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf124",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF124",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf125",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF125",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf126",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF126",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf127",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF127",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf128",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF128",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf129",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF129",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf130",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF130",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf131",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF131",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf132",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF132",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf133",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF133",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf134",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF134",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf135",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF135",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf136",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF136",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf137",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF137",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf138",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF138",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf139",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF139",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf140",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF140",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf141",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF141",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf142",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF142",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf143",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF143",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf144",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF144",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf145",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF145",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf146",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF146",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf147",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF147",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf148",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF148",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf149",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF149",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf150",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF150",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf151",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF151",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf152",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF152",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf153",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF153",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf154",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF154",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf155",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF155",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf156",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF156",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf157",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF157",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf158",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF158",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf159",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF159",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf160",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF160",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf161",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF161",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf162",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF162",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf163",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF163",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf164",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF164",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf165",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF165",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf166",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF166",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf167",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF167",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf168",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF168",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf169",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF169",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf170",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF170",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf171",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF171",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf172",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF172",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf173",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF173",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf174",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF174",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf175",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF175",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf176",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF176",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf177",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF177",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf178",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF178",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf179",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF179",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf180",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF180",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf181",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF181",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf182",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF182",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf183",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF183",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf184",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF184",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf185",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF185",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf186",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF186",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf187",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF187",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf188",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF188",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf189",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF189",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf190",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF190",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf191",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF191",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf192",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF192",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf193",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF193",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf194",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF194",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf195",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF195",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf196",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF196",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf197",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF197",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf198",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF198",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf199",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF199",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf200",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF200",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf201",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF201",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf202",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF202",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf203",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF203",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf204",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF204",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf205",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF205",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf206",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF206",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf207",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF207",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf208",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF208",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf209",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF209",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf210",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF210",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf211",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF211",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf212",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF212",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf213",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF213",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf214",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF214",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf215",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF215",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf216",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF216",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf217",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF217",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf218",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF218",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf219",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF219",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf220",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF220",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf221",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF221",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf222",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF222",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf223",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF223",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf224",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF224",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf225",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF225",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf226",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF226",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf227",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF227",
+					"script": "pua"
+				},
+				{
+					"unicode": "\u0000",
+					"category": "Separator",
+					"description": "????",
+					"production": "uni0000",
+					"script": "other"
+				},
+				{
+					"unicode": "\r",
+					"category": "Separator",
+					"description": "????",
+					"production": "uni000D",
+					"script": "other"
+				},
+				{
+					"unicode": " ",
+					"category": "Separator",
+					"description": "SPACE",
+					"production": "space",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": "!",
+					"category": "Punctuation",
+					"description": "EXCLAMATION MARK",
+					"production": "exclam",
+					"script": "other"
+				},
+				{
+					"unicode": "\"",
+					"category": "Punctuation",
+					"description": "QUOTATION MARK",
+					"production": "quotedbl",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "#",
+					"category": "Punctuation",
+					"description": "NUMBER SIGN",
+					"production": "numbersign",
+					"script": "other"
+				},
+				{
+					"unicode": "$",
+					"category": "Symbol",
+					"description": "DOLLAR SIGN",
+					"production": "dollar",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "%",
+					"category": "Symbol",
+					"description": "PERCENT SIGN",
+					"production": "percent",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "&",
+					"category": "Symbol",
+					"description": "AMPERSAND",
+					"production": "ampersand",
+					"script": "other"
+				},
+				{
+					"unicode": "'",
+					"category": "Punctuation",
+					"description": "APOSTROPHE",
+					"production": "quotesingle",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "(",
+					"category": "Punctuation",
+					"description": "LEFT PARENTHESIS",
+					"production": "parenleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": ")",
+					"category": "Punctuation",
+					"description": "RIGHT PARENTHESIS",
+					"production": "parenright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "*",
+					"category": "Punctuation",
+					"description": "ASTERISK",
+					"production": "asterisk",
+					"script": "other"
+				},
+				{
+					"unicode": "+",
+					"category": "Symbol",
+					"description": "PLUS SIGN",
+					"production": "plus",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": ",",
+					"category": "Punctuation",
+					"description": "COMMA",
+					"production": "comma",
+					"script": "other"
+				},
+				{
+					"unicode": "-",
+					"category": "Punctuation",
+					"description": "HYPHEN-MINUS",
+					"production": "hyphen",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": ".",
+					"category": "Punctuation",
+					"description": "FULL STOP",
+					"production": "period",
+					"script": "other"
+				},
+				{
+					"unicode": "/",
+					"category": "Punctuation",
+					"description": "SOLIDUS",
+					"production": "slash",
+					"script": "other"
+				},
+				{
+					"unicode": "0",
+					"category": "Number",
+					"description": "DIGIT ZERO",
+					"production": "zero",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "1",
+					"category": "Number",
+					"description": "DIGIT ONE",
+					"production": "one",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "2",
+					"category": "Number",
+					"description": "DIGIT TWO",
+					"production": "two",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "3",
+					"category": "Number",
+					"description": "DIGIT THREE",
+					"production": "three",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "4",
+					"category": "Number",
+					"description": "DIGIT FOUR",
+					"production": "four",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "5",
+					"category": "Number",
+					"description": "DIGIT FIVE",
+					"production": "five",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "6",
+					"category": "Number",
+					"description": "DIGIT SIX",
+					"production": "six",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "7",
+					"category": "Number",
+					"description": "DIGIT SEVEN",
+					"production": "seven",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "8",
+					"category": "Number",
+					"description": "DIGIT EIGHT",
+					"production": "eight",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "9",
+					"category": "Number",
+					"description": "DIGIT NINE",
+					"production": "nine",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": ":",
+					"category": "Punctuation",
+					"description": "COLON",
+					"production": "colon",
+					"script": "other"
+				},
+				{
+					"unicode": ";",
+					"category": "Punctuation",
+					"description": "SEMICOLON",
+					"production": "semicolon",
+					"script": "other"
+				},
+				{
+					"unicode": "<",
+					"category": "Symbol",
+					"description": "LESS-THAN SIGN",
+					"production": "less",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "=",
+					"category": "Symbol",
+					"description": "EQUALS SIGN",
+					"production": "equal",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": ">",
+					"category": "Symbol",
+					"description": "GREATER-THAN SIGN",
+					"production": "greater",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "?",
+					"category": "Punctuation",
+					"description": "QUESTION MARK",
+					"production": "question",
+					"script": "other"
+				},
+				{
+					"unicode": "@",
+					"category": "Symbol",
+					"description": "COMMERCIAL AT",
+					"production": "at",
+					"script": "other"
+				},
+				{
+					"unicode": "A",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A",
+					"production": "A",
+					"script": "latin"
+				},
+				{
+					"unicode": "B",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER B",
+					"production": "B",
+					"script": "latin"
+				},
+				{
+					"unicode": "C",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C",
+					"production": "C",
+					"script": "latin"
+				},
+				{
+					"unicode": "D",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER D",
+					"production": "D",
+					"script": "latin"
+				},
+				{
+					"unicode": "E",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E",
+					"production": "E",
+					"script": "latin"
+				},
+				{
+					"unicode": "F",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER F",
+					"production": "F",
+					"script": "latin"
+				},
+				{
+					"unicode": "G",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER G",
+					"production": "G",
+					"script": "latin"
+				},
+				{
+					"unicode": "H",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER H",
+					"production": "H",
+					"script": "latin"
+				},
+				{
+					"unicode": "I",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I",
+					"production": "I",
+					"script": "latin"
+				},
+				{
+					"unicode": "J",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER J",
+					"production": "J",
+					"script": "latin"
+				},
+				{
+					"unicode": "K",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER K",
+					"production": "K",
+					"script": "latin"
+				},
+				{
+					"unicode": "L",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER L",
+					"production": "L",
+					"script": "latin"
+				},
+				{
+					"unicode": "M",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER M",
+					"production": "M",
+					"script": "latin"
+				},
+				{
+					"unicode": "N",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N",
+					"production": "N",
+					"script": "latin"
+				},
+				{
+					"unicode": "O",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O",
+					"production": "O",
+					"script": "latin"
+				},
+				{
+					"unicode": "P",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER P",
+					"production": "P",
+					"script": "latin"
+				},
+				{
+					"unicode": "Q",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Q",
+					"production": "Q",
+					"script": "latin"
+				},
+				{
+					"unicode": "R",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER R",
+					"production": "R",
+					"script": "latin"
+				},
+				{
+					"unicode": "S",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S",
+					"production": "S",
+					"script": "latin"
+				},
+				{
+					"unicode": "T",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER T",
+					"production": "T",
+					"script": "latin"
+				},
+				{
+					"unicode": "U",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U",
+					"production": "U",
+					"script": "latin"
+				},
+				{
+					"unicode": "V",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER V",
+					"production": "V",
+					"script": "latin"
+				},
+				{
+					"unicode": "W",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER W",
+					"production": "W",
+					"script": "latin"
+				},
+				{
+					"unicode": "X",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER X",
+					"production": "X",
+					"script": "latin"
+				},
+				{
+					"unicode": "Y",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y",
+					"production": "Y",
+					"script": "latin"
+				},
+				{
+					"unicode": "Z",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z",
+					"production": "Z",
+					"script": "latin"
+				},
+				{
+					"unicode": "[",
+					"category": "Punctuation",
+					"description": "LEFT SQUARE BRACKET",
+					"production": "bracketleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "\\",
+					"category": "Punctuation",
+					"description": "REVERSE SOLIDUS",
+					"production": "backslash",
+					"script": "other"
+				},
+				{
+					"unicode": "]",
+					"category": "Punctuation",
+					"description": "RIGHT SQUARE BRACKET",
+					"production": "bracketright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "^",
+					"category": "Symbol",
+					"description": "CIRCUMFLEX ACCENT",
+					"production": "asciicircum",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "_",
+					"category": "Punctuation",
+					"description": "LOW LINE",
+					"production": "underscore",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "`",
+					"category": "Mark",
+					"description": "GRAVE ACCENT",
+					"production": "grave",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "a",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A",
+					"production": "a",
+					"script": "latin"
+				},
+				{
+					"unicode": "b",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER B",
+					"production": "b",
+					"script": "latin"
+				},
+				{
+					"unicode": "c",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER C",
+					"production": "c",
+					"script": "latin"
+				},
+				{
+					"unicode": "d",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER D",
+					"production": "d",
+					"script": "latin"
+				},
+				{
+					"unicode": "e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER E",
+					"production": "e",
+					"script": "latin"
+				},
+				{
+					"unicode": "f",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER F",
+					"production": "f",
+					"script": "latin"
+				},
+				{
+					"unicode": "g",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER G",
+					"production": "g",
+					"script": "latin"
+				},
+				{
+					"unicode": "h",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER H",
+					"production": "h",
+					"script": "latin"
+				},
+				{
+					"unicode": "i",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER I",
+					"production": "i",
+					"script": "latin"
+				},
+				{
+					"unicode": "j",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER J",
+					"production": "j",
+					"script": "latin"
+				},
+				{
+					"unicode": "k",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER K",
+					"production": "k",
+					"script": "latin"
+				},
+				{
+					"unicode": "l",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER L",
+					"production": "l",
+					"script": "latin"
+				},
+				{
+					"unicode": "m",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER M",
+					"production": "m",
+					"script": "latin"
+				},
+				{
+					"unicode": "n",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER N",
+					"production": "n",
+					"script": "latin"
+				},
+				{
+					"unicode": "o",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O",
+					"production": "o",
+					"script": "latin"
+				},
+				{
+					"unicode": "p",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER P",
+					"production": "p",
+					"script": "latin"
+				},
+				{
+					"unicode": "q",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Q",
+					"production": "q",
+					"script": "latin"
+				},
+				{
+					"unicode": "r",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER R",
+					"production": "r",
+					"script": "latin"
+				},
+				{
+					"unicode": "s",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S",
+					"production": "s",
+					"script": "latin"
+				},
+				{
+					"unicode": "t",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER T",
+					"production": "t",
+					"script": "latin"
+				},
+				{
+					"unicode": "u",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U",
+					"production": "u",
+					"script": "latin"
+				},
+				{
+					"unicode": "v",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER V",
+					"production": "v",
+					"script": "latin"
+				},
+				{
+					"unicode": "w",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER W",
+					"production": "w",
+					"script": "latin"
+				},
+				{
+					"unicode": "x",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER X",
+					"production": "x",
+					"script": "latin"
+				},
+				{
+					"unicode": "y",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Y",
+					"production": "y",
+					"script": "latin"
+				},
+				{
+					"unicode": "z",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Z",
+					"production": "z",
+					"script": "latin"
+				},
+				{
+					"unicode": "{",
+					"category": "Punctuation",
+					"description": "LEFT CURLY BRACKET",
+					"production": "braceleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "|",
+					"category": "Symbol",
+					"description": "VERTICAL LINE",
+					"production": "bar",
+					"script": "other"
+				},
+				{
+					"unicode": "}",
+					"category": "Punctuation",
+					"description": "RIGHT CURLY BRACKET",
+					"production": "braceright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "~",
+					"category": "Symbol",
+					"description": "TILDE",
+					"production": "asciitilde",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a0",
+					"category": "Separator",
+					"description": "NO-BREAK SPACE",
+					"production": "dagger",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a1",
+					"category": "Punctuation",
+					"description": "INVERTED EXCLAMATION MARK",
+					"production": "degree",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a2",
+					"category": "Symbol",
+					"description": "CENT SIGN",
+					"production": "cent",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a3",
+					"category": "Symbol",
+					"description": "POUND SIGN",
+					"production": "sterling",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a4",
+					"category": "Symbol",
+					"description": "CURRENCY SIGN",
+					"production": "section",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a5",
+					"category": "Symbol",
+					"description": "YEN SIGN",
+					"production": "bullet",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a6",
+					"category": "Symbol",
+					"description": "BROKEN BAR",
+					"production": "paragraph",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a8",
+					"category": "Mark",
+					"description": "DIAERESIS",
+					"production": "registered",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a9",
+					"category": "Symbol",
+					"description": "COPYRIGHT SIGN",
+					"production": "copyright",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00aa",
+					"category": "Letter",
+					"description": "FEMININE ORDINAL INDICATOR",
+					"production": "trademark",
+					"subcategory": "Superscript",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00ab",
+					"category": "Punctuation",
+					"description": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+					"production": "acute",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ac",
+					"category": "Symbol",
+					"description": "NOT SIGN",
+					"production": "dieresis",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b1",
+					"category": "Symbol",
+					"description": "PLUS-MINUS SIGN",
+					"production": "plusminus",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b4",
+					"category": "Mark",
+					"description": "ACUTE ACCENT",
+					"production": "yen",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b5",
+					"category": "Symbol",
+					"description": "MICRO SIGN",
+					"production": "uni00B5",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00bb",
+					"category": "Punctuation",
+					"description": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+					"production": "ordfeminine",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00bc",
+					"category": "Number",
+					"description": "VULGAR FRACTION ONE QUARTER",
+					"production": "ordmasculine",
+					"subcategory": "Fraction",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00c0",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A WITH GRAVE",
+					"production": "questiondown",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00c1",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A WITH ACUTE",
+					"production": "exclamdown",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00c2",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX",
+					"production": "logicalnot",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00c4",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A WITH DIAERESIS",
+					"production": "florin",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00c7",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C WITH CEDILLA",
+					"production": "guillemotleft",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00c8",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E WITH GRAVE",
+					"production": "guillemotright",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00c9",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E WITH ACUTE",
+					"production": "ellipsis",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00ca",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX",
+					"production": "uni00A0",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00ce",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I WITH CIRCUMFLEX",
+					"production": "OE",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00cf",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I WITH DIAERESIS",
+					"production": "oe",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00d0",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER ETH",
+					"production": "endash",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00d1",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N WITH TILDE",
+					"production": "emdash",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00d2",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O WITH GRAVE",
+					"production": "quotedblleft",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00d3",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O WITH ACUTE",
+					"production": "quotedblright",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00d4",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX",
+					"production": "quoteleft",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00d5",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O WITH TILDE",
+					"production": "quoteright",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00d9",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U WITH GRAVE",
+					"production": "Ydieresis",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00db",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX",
+					"production": "Euro",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00dc",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U WITH DIAERESIS",
+					"production": "guilsinglleft",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00dd",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y WITH ACUTE",
+					"production": "guilsinglright",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00e0",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A WITH GRAVE",
+					"production": "daggerdbl",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00e1",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A WITH ACUTE",
+					"production": "periodcentered",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00e2",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A WITH CIRCUMFLEX",
+					"production": "quotesinglbase",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00e3",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A WITH TILDE",
+					"production": "quotedblbase",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00e4",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A WITH DIAERESIS",
+					"production": "perthousand",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00f6",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O WITH DIAERESIS",
+					"production": "circumflex",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00f7",
+					"category": "Symbol",
+					"description": "DIVISION SIGN",
+					"production": "tilde",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00f8",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O WITH STROKE",
+					"production": "macron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00fc",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U WITH DIAERESIS",
+					"production": "cedilla",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0000",
+					"category": "Separator",
+					"description": "????",
+					"production": "uni0000",
+					"script": "other"
+				},
+				{
+					"unicode": "\r",
+					"category": "Separator",
+					"description": "????",
+					"production": "uni000D",
+					"script": "other"
+				},
+				{
+					"unicode": " ",
+					"category": "Separator",
+					"description": "SPACE",
+					"production": "space",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": "!",
+					"category": "Punctuation",
+					"description": "EXCLAMATION MARK",
+					"production": "exclam",
+					"script": "other"
+				},
+				{
+					"unicode": "\"",
+					"category": "Punctuation",
+					"description": "QUOTATION MARK",
+					"production": "quotedbl",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "#",
+					"category": "Punctuation",
+					"description": "NUMBER SIGN",
+					"production": "numbersign",
+					"script": "other"
+				},
+				{
+					"unicode": "$",
+					"category": "Symbol",
+					"description": "DOLLAR SIGN",
+					"production": "dollar",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "%",
+					"category": "Symbol",
+					"description": "PERCENT SIGN",
+					"production": "percent",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "&",
+					"category": "Symbol",
+					"description": "AMPERSAND",
+					"production": "ampersand",
+					"script": "other"
+				},
+				{
+					"unicode": "'",
+					"category": "Punctuation",
+					"description": "APOSTROPHE",
+					"production": "quotesingle",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "(",
+					"category": "Punctuation",
+					"description": "LEFT PARENTHESIS",
+					"production": "parenleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": ")",
+					"category": "Punctuation",
+					"description": "RIGHT PARENTHESIS",
+					"production": "parenright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "*",
+					"category": "Punctuation",
+					"description": "ASTERISK",
+					"production": "asterisk",
+					"script": "other"
+				},
+				{
+					"unicode": "+",
+					"category": "Symbol",
+					"description": "PLUS SIGN",
+					"production": "plus",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": ",",
+					"category": "Punctuation",
+					"description": "COMMA",
+					"production": "comma",
+					"script": "other"
+				},
+				{
+					"unicode": "-",
+					"category": "Punctuation",
+					"description": "HYPHEN-MINUS",
+					"production": "hyphen",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": ".",
+					"category": "Punctuation",
+					"description": "FULL STOP",
+					"production": "period",
+					"script": "other"
+				},
+				{
+					"unicode": "/",
+					"category": "Punctuation",
+					"description": "SOLIDUS",
+					"production": "slash",
+					"script": "other"
+				},
+				{
+					"unicode": "0",
+					"category": "Number",
+					"description": "DIGIT ZERO",
+					"production": "zero",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "1",
+					"category": "Number",
+					"description": "DIGIT ONE",
+					"production": "one",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "2",
+					"category": "Number",
+					"description": "DIGIT TWO",
+					"production": "two",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "3",
+					"category": "Number",
+					"description": "DIGIT THREE",
+					"production": "three",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "4",
+					"category": "Number",
+					"description": "DIGIT FOUR",
+					"production": "four",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "5",
+					"category": "Number",
+					"description": "DIGIT FIVE",
+					"production": "five",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "6",
+					"category": "Number",
+					"description": "DIGIT SIX",
+					"production": "six",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "7",
+					"category": "Number",
+					"description": "DIGIT SEVEN",
+					"production": "seven",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "8",
+					"category": "Number",
+					"description": "DIGIT EIGHT",
+					"production": "eight",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "9",
+					"category": "Number",
+					"description": "DIGIT NINE",
+					"production": "nine",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": ":",
+					"category": "Punctuation",
+					"description": "COLON",
+					"production": "colon",
+					"script": "other"
+				},
+				{
+					"unicode": ";",
+					"category": "Punctuation",
+					"description": "SEMICOLON",
+					"production": "semicolon",
+					"script": "other"
+				},
+				{
+					"unicode": "<",
+					"category": "Symbol",
+					"description": "LESS-THAN SIGN",
+					"production": "less",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "=",
+					"category": "Symbol",
+					"description": "EQUALS SIGN",
+					"production": "equal",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": ">",
+					"category": "Symbol",
+					"description": "GREATER-THAN SIGN",
+					"production": "greater",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "?",
+					"category": "Punctuation",
+					"description": "QUESTION MARK",
+					"production": "question",
+					"script": "other"
+				},
+				{
+					"unicode": "@",
+					"category": "Symbol",
+					"description": "COMMERCIAL AT",
+					"production": "at",
+					"script": "other"
+				},
+				{
+					"unicode": "A",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A",
+					"production": "A",
+					"script": "latin"
+				},
+				{
+					"unicode": "B",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER B",
+					"production": "B",
+					"script": "latin"
+				},
+				{
+					"unicode": "C",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C",
+					"production": "C",
+					"script": "latin"
+				},
+				{
+					"unicode": "D",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER D",
+					"production": "D",
+					"script": "latin"
+				},
+				{
+					"unicode": "E",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E",
+					"production": "E",
+					"script": "latin"
+				},
+				{
+					"unicode": "F",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER F",
+					"production": "F",
+					"script": "latin"
+				},
+				{
+					"unicode": "G",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER G",
+					"production": "G",
+					"script": "latin"
+				},
+				{
+					"unicode": "H",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER H",
+					"production": "H",
+					"script": "latin"
+				},
+				{
+					"unicode": "I",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I",
+					"production": "I",
+					"script": "latin"
+				},
+				{
+					"unicode": "J",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER J",
+					"production": "J",
+					"script": "latin"
+				},
+				{
+					"unicode": "K",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER K",
+					"production": "K",
+					"script": "latin"
+				},
+				{
+					"unicode": "L",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER L",
+					"production": "L",
+					"script": "latin"
+				},
+				{
+					"unicode": "M",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER M",
+					"production": "M",
+					"script": "latin"
+				},
+				{
+					"unicode": "N",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N",
+					"production": "N",
+					"script": "latin"
+				},
+				{
+					"unicode": "O",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O",
+					"production": "O",
+					"script": "latin"
+				},
+				{
+					"unicode": "P",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER P",
+					"production": "P",
+					"script": "latin"
+				},
+				{
+					"unicode": "Q",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Q",
+					"production": "Q",
+					"script": "latin"
+				},
+				{
+					"unicode": "R",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER R",
+					"production": "R",
+					"script": "latin"
+				},
+				{
+					"unicode": "S",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S",
+					"production": "S",
+					"script": "latin"
+				},
+				{
+					"unicode": "T",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER T",
+					"production": "T",
+					"script": "latin"
+				},
+				{
+					"unicode": "U",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U",
+					"production": "U",
+					"script": "latin"
+				},
+				{
+					"unicode": "V",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER V",
+					"production": "V",
+					"script": "latin"
+				},
+				{
+					"unicode": "W",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER W",
+					"production": "W",
+					"script": "latin"
+				},
+				{
+					"unicode": "X",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER X",
+					"production": "X",
+					"script": "latin"
+				},
+				{
+					"unicode": "Y",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y",
+					"production": "Y",
+					"script": "latin"
+				},
+				{
+					"unicode": "Z",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z",
+					"production": "Z",
+					"script": "latin"
+				},
+				{
+					"unicode": "[",
+					"category": "Punctuation",
+					"description": "LEFT SQUARE BRACKET",
+					"production": "bracketleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "\\",
+					"category": "Punctuation",
+					"description": "REVERSE SOLIDUS",
+					"production": "backslash",
+					"script": "other"
+				},
+				{
+					"unicode": "]",
+					"category": "Punctuation",
+					"description": "RIGHT SQUARE BRACKET",
+					"production": "bracketright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "^",
+					"category": "Symbol",
+					"description": "CIRCUMFLEX ACCENT",
+					"production": "asciicircum",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "_",
+					"category": "Punctuation",
+					"description": "LOW LINE",
+					"production": "underscore",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "`",
+					"category": "Mark",
+					"description": "GRAVE ACCENT",
+					"production": "grave",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "a",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A",
+					"production": "a",
+					"script": "latin"
+				},
+				{
+					"unicode": "b",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER B",
+					"production": "b",
+					"script": "latin"
+				},
+				{
+					"unicode": "c",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER C",
+					"production": "c",
+					"script": "latin"
+				},
+				{
+					"unicode": "d",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER D",
+					"production": "d",
+					"script": "latin"
+				},
+				{
+					"unicode": "e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER E",
+					"production": "e",
+					"script": "latin"
+				},
+				{
+					"unicode": "f",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER F",
+					"production": "f",
+					"script": "latin"
+				},
+				{
+					"unicode": "g",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER G",
+					"production": "g",
+					"script": "latin"
+				},
+				{
+					"unicode": "h",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER H",
+					"production": "h",
+					"script": "latin"
+				},
+				{
+					"unicode": "i",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER I",
+					"production": "i",
+					"script": "latin"
+				},
+				{
+					"unicode": "j",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER J",
+					"production": "j",
+					"script": "latin"
+				},
+				{
+					"unicode": "k",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER K",
+					"production": "k",
+					"script": "latin"
+				},
+				{
+					"unicode": "l",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER L",
+					"production": "l",
+					"script": "latin"
+				},
+				{
+					"unicode": "m",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER M",
+					"production": "m",
+					"script": "latin"
+				},
+				{
+					"unicode": "n",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER N",
+					"production": "n",
+					"script": "latin"
+				},
+				{
+					"unicode": "o",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O",
+					"production": "o",
+					"script": "latin"
+				},
+				{
+					"unicode": "p",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER P",
+					"production": "p",
+					"script": "latin"
+				},
+				{
+					"unicode": "q",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Q",
+					"production": "q",
+					"script": "latin"
+				},
+				{
+					"unicode": "r",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER R",
+					"production": "r",
+					"script": "latin"
+				},
+				{
+					"unicode": "s",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S",
+					"production": "s",
+					"script": "latin"
+				},
+				{
+					"unicode": "t",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER T",
+					"production": "t",
+					"script": "latin"
+				},
+				{
+					"unicode": "u",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U",
+					"production": "u",
+					"script": "latin"
+				},
+				{
+					"unicode": "v",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER V",
+					"production": "v",
+					"script": "latin"
+				},
+				{
+					"unicode": "w",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER W",
+					"production": "w",
+					"script": "latin"
+				},
+				{
+					"unicode": "x",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER X",
+					"production": "x",
+					"script": "latin"
+				},
+				{
+					"unicode": "y",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Y",
+					"production": "y",
+					"script": "latin"
+				},
+				{
+					"unicode": "z",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Z",
+					"production": "z",
+					"script": "latin"
+				},
+				{
+					"unicode": "{",
+					"category": "Punctuation",
+					"description": "LEFT CURLY BRACKET",
+					"production": "braceleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "|",
+					"category": "Symbol",
+					"description": "VERTICAL LINE",
+					"production": "bar",
+					"script": "other"
+				},
+				{
+					"unicode": "}",
+					"category": "Punctuation",
+					"description": "RIGHT CURLY BRACKET",
+					"production": "braceright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "~",
+					"category": "Symbol",
+					"description": "TILDE",
+					"production": "asciitilde",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a0",
+					"category": "Separator",
+					"description": "NO-BREAK SPACE",
+					"production": "uni00A0",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a1",
+					"category": "Punctuation",
+					"description": "INVERTED EXCLAMATION MARK",
+					"production": "exclamdown",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a2",
+					"category": "Symbol",
+					"description": "CENT SIGN",
+					"production": "cent",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a3",
+					"category": "Symbol",
+					"description": "POUND SIGN",
+					"production": "sterling",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a4",
+					"category": "Symbol",
+					"description": "CURRENCY SIGN",
+					"production": "currency",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a5",
+					"category": "Symbol",
+					"description": "YEN SIGN",
+					"production": "yen",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a6",
+					"category": "Symbol",
+					"description": "BROKEN BAR",
+					"production": "brokenbar",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a7",
+					"category": "Symbol",
+					"description": "SECTION SIGN",
+					"production": "section",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a8",
+					"category": "Mark",
+					"description": "DIAERESIS",
+					"production": "dieresis",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00a9",
+					"category": "Symbol",
+					"description": "COPYRIGHT SIGN",
+					"production": "copyright",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00aa",
+					"category": "Letter",
+					"description": "FEMININE ORDINAL INDICATOR",
+					"production": "ordfeminine",
+					"subcategory": "Superscript",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00ab",
+					"category": "Punctuation",
+					"description": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+					"production": "guillemotleft",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ac",
+					"category": "Symbol",
+					"description": "NOT SIGN",
+					"production": "logicalnot",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ad",
+					"category": "Punctuation",
+					"description": "SOFT HYPHEN",
+					"production": "uni00AD",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ae",
+					"category": "Symbol",
+					"description": "REGISTERED SIGN",
+					"production": "registered",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00af",
+					"category": "Mark",
+					"description": "MACRON",
+					"production": "macron",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b0",
+					"category": "Symbol",
+					"description": "DEGREE SIGN",
+					"production": "degree",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b1",
+					"category": "Symbol",
+					"description": "PLUS-MINUS SIGN",
+					"production": "plusminus",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b2",
+					"category": "Number",
+					"description": "SUPERSCRIPT TWO",
+					"production": "twosuperior",
+					"subcategory": "Small",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b3",
+					"category": "Number",
+					"description": "SUPERSCRIPT THREE",
+					"production": "threesuperior",
+					"subcategory": "Small",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b4",
+					"category": "Mark",
+					"description": "ACUTE ACCENT",
+					"production": "acute",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b5",
+					"category": "Symbol",
+					"description": "MICRO SIGN",
+					"production": "uni00B5",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b6",
+					"category": "Symbol",
+					"description": "PILCROW SIGN",
+					"production": "paragraph",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b7",
+					"category": "Punctuation",
+					"description": "MIDDLE DOT",
+					"production": "periodcentered",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b8",
+					"category": "Mark",
+					"description": "CEDILLA",
+					"production": "cedilla",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00b9",
+					"category": "Number",
+					"description": "SUPERSCRIPT ONE",
+					"production": "onesuperior",
+					"subcategory": "Small",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00ba",
+					"category": "Letter",
+					"description": "MASCULINE ORDINAL INDICATOR",
+					"production": "ordmasculine",
+					"subcategory": "Superscript",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00bb",
+					"category": "Punctuation",
+					"description": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+					"production": "guillemotright",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00bc",
+					"category": "Number",
+					"description": "VULGAR FRACTION ONE QUARTER",
+					"production": "onequarter",
+					"subcategory": "Fraction",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00bd",
+					"category": "Number",
+					"description": "VULGAR FRACTION ONE HALF",
+					"production": "onehalf",
+					"subcategory": "Fraction",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00be",
+					"category": "Number",
+					"description": "VULGAR FRACTION THREE QUARTERS",
+					"production": "threequarters",
+					"subcategory": "Fraction",
+					"script": "other"
+				},
+				{
+					"unicode": "\u00bf",
+					"category": "Punctuation",
+					"description": "INVERTED QUESTION MARK",
+					"production": "questiondown",
+					"script": "other"
+				},
+				{
+					"unicode": "\u0152",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LIGATURE OE",
+					"production": "OE",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0153",
+					"category": "Letter",
+					"description": "LATIN SMALL LIGATURE OE",
+					"production": "oe",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0160",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S WITH CARON",
+					"production": "Scaron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0161",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S WITH CARON",
+					"production": "scaron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0178",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y WITH DIAERESIS",
+					"production": "Ydieresis",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u017d",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z WITH CARON",
+					"production": "Zcaron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u017e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER Z WITH CARON",
+					"production": "zcaron",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u0192",
+					"category": "Symbol",
+					"description": "LATIN SMALL LETTER F WITH HOOK",
+					"production": "florin",
+					"subcategory": "Currency",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u02c6",
+					"category": "Mark",
+					"description": "MODIFIER LETTER CIRCUMFLEX ACCENT",
+					"production": "circumflex",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u02dc",
+					"category": "Mark",
+					"description": "SMALL TILDE",
+					"production": "tilde",
+					"subcategory": "Spacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2013",
+					"category": "Punctuation",
+					"description": "EN DASH",
+					"production": "endash",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2014",
+					"category": "Punctuation",
+					"description": "EM DASH",
+					"production": "emdash",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2018",
+					"category": "Punctuation",
+					"description": "LEFT SINGLE QUOTATION MARK",
+					"production": "quoteleft",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2019",
+					"category": "Punctuation",
+					"description": "RIGHT SINGLE QUOTATION MARK",
+					"production": "quoteright",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u201a",
+					"category": "Punctuation",
+					"description": "SINGLE LOW-9 QUOTATION MARK",
+					"production": "quotesinglbase",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u201c",
+					"category": "Punctuation",
+					"description": "LEFT DOUBLE QUOTATION MARK",
+					"production": "quotedblleft",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u201d",
+					"category": "Punctuation",
+					"description": "RIGHT DOUBLE QUOTATION MARK",
+					"production": "quotedblright",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u201e",
+					"category": "Punctuation",
+					"description": "DOUBLE LOW-9 QUOTATION MARK",
+					"production": "quotedblbase",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2020",
+					"category": "Symbol",
+					"description": "DAGGER",
+					"production": "dagger",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2021",
+					"category": "Symbol",
+					"description": "DOUBLE DAGGER",
+					"production": "daggerdbl",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2022",
+					"category": "Punctuation",
+					"description": "BULLET",
+					"production": "bullet",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2026",
+					"category": "Punctuation",
+					"description": "HORIZONTAL ELLIPSIS",
+					"production": "ellipsis",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2030",
+					"category": "Symbol",
+					"description": "PER MILLE SIGN",
+					"production": "perthousand",
+					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2039",
+					"category": "Punctuation",
+					"description": "SINGLE LEFT-POINTING ANGLE QUOTATION MARK",
+					"production": "guilsinglleft",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u203a",
+					"category": "Punctuation",
+					"description": "SINGLE RIGHT-POINTING ANGLE QUOTATION MARK",
+					"production": "guilsinglright",
+					"subcategory": "Quote",
+					"script": "other"
+				},
+				{
+					"unicode": "\u20ac",
+					"category": "Symbol",
+					"description": "EURO SIGN",
+					"production": "Euro",
+					"subcategory": "Currency",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2122",
+					"category": "Symbol",
+					"description": "TRADE MARK SIGN",
+					"production": "trademark",
+					"script": "other"
+				},
+				{
+					"unicode": "\ue600",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE600",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue601",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE601",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue602",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE602",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue603",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE603",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue604",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE604",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue605",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE605",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue606",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE606",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue607",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE607",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue608",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE608",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue609",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE609",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue60f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE60F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue610",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE610",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue611",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE611",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue612",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE612",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue613",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE613",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue614",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE614",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue615",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE615",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue616",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE616",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue617",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE617",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue618",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE618",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue619",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE619",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue61f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE61F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue620",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE620",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue621",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE621",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue622",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE622",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue623",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE623",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue624",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE624",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue625",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE625",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue626",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE626",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue627",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE627",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue628",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE628",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue629",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE629",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue62f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE62F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue630",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE630",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue631",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE631",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue632",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE632",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue633",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE633",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue634",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE634",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue635",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE635",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue636",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE636",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue637",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE637",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue638",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE638",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue639",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE639",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue63f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE63F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue640",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE640",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue641",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE641",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue642",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE642",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue643",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE643",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue644",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE644",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue645",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE645",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue646",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE646",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue647",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE647",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue648",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE648",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue649",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE649",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue64f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE64F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue650",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE650",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue651",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE651",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue652",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE652",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue653",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE653",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue654",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE654",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue655",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE655",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue656",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE656",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue657",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE657",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue658",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE658",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue659",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE659",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue65f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE65F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue660",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE660",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue661",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE661",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue662",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE662",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue663",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE663",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue664",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE664",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue665",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE665",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue666",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE666",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue667",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE667",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue668",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE668",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue669",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE669",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66C",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue66f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE66F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue670",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE670",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue671",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE671",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue672",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE672",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue673",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE673",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue674",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE674",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue675",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE675",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue676",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE676",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue677",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE677",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue679",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE679",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue680",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE680",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue681",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE681",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue682",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE682",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue683",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE683",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue685",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE685",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue686",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE686",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue687",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE687",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue688",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE688",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue689",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE689",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue690",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE690",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue691",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE691",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue692",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE692",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue693",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE693",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue694",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE694",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue695",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE695",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue696",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE696",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue718",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE718",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue719",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE719",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue720",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE720",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue721",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE721",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue722",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE722",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue723",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE723",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue724",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE724",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue725",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE725",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue726",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE726",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue727",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE727",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue728",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE728",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue730",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE730",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue731",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE731",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue732",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE732",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue800",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE800",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue801",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE801",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue805",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE805",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue812",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE812",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue813",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE813",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue818",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE818",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue819",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE819",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue820",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE820",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue823",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE823",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue824",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE824",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue825",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE825",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue826",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE826",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue827",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE827",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue828",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE828",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue829",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE829",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue830",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE830",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue831",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE831",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue835",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE835",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue836",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE836",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue837",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE837",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue838",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE838",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue840",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE840",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue842",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE842",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue843",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE843",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue850",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE850",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue851",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE851",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue864",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE864",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue865",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE865",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue866",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE866",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue867",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE867",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue870",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE870",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue871",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE871",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue872",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE872",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue896",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE896",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue913",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE913",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue915",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE915",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue917",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE917",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue919",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE919",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue921",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE921",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue923",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE923",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue925",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE925",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue930",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE930",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue941",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE941",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue942",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE942",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue943",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE943",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue944",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE944",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue945",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE945",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue946",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE946",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue947",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE947",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue948",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE948",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue949",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE949",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue94a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE94A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue950",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE950",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue955",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE955",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue961",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE961",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue990",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE990",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue991",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE991",
+					"script": "pua"
+				},
+				{
+					"unicode": "\ue996",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniE996",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf004",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF004",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf010",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF010",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf011",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF011",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf012",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF012",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf013",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF013",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf014",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF014",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf015",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF015",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf020",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF020",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf021",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF021",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf022",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF022",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf024",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF024",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf025",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF025",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf026",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF026",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf027",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF027",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf028",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF028",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf029",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF029",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf02a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF02A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf036",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF036",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf038",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF038",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf062",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF062",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf064",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF064",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf065",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF065",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf070",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF070",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf101",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF101",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf102",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF102",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf103",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF103",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf104",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF104",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf105",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF105",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf106",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF106",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf107",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF107",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf108",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF108",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf109",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF109",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf110",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF110",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf111",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF111",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf112",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF112",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf113",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF113",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf114",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF114",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf115",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF115",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf116",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF116",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf117",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF117",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf118",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF118",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf119",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF119",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf120",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF120",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf121",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF121",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf122",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF122",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf123",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF123",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf124",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF124",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf125",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF125",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf126",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF126",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf127",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF127",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf128",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF128",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf129",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF129",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf130",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF130",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf131",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF131",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf132",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF132",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf133",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF133",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf134",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF134",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf135",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF135",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf136",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF136",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf137",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF137",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf138",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF138",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf139",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF139",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf140",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF140",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf141",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF141",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf142",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF142",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf143",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF143",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf144",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF144",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf145",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF145",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf146",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF146",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf147",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF147",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf148",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF148",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf149",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF149",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf150",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF150",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf151",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF151",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf152",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF152",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf153",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF153",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf154",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF154",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf155",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF155",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf156",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF156",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf157",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF157",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf158",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF158",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf159",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF159",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf160",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF160",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf161",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF161",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf162",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF162",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf163",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF163",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf164",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF164",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf165",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF165",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf166",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF166",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf167",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF167",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf168",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF168",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf169",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF169",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf170",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF170",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf171",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF171",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf172",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF172",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf173",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF173",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf174",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF174",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf175",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF175",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf176",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF176",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf177",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF177",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf178",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF178",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf179",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF179",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf180",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF180",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf181",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF181",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf182",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF182",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf183",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF183",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf184",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF184",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf185",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF185",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf186",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF186",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf187",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF187",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf188",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF188",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf189",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF189",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf190",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF190",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf191",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF191",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf192",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF192",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf193",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF193",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf194",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF194",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf195",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF195",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf196",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF196",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf197",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF197",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf198",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF198",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf199",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF199",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf200",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF200",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf201",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF201",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf202",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF202",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf203",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF203",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf204",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF204",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf205",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF205",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf206",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF206",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf207",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF207",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf208",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF208",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf209",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF209",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf210",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF210",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf211",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF211",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf212",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF212",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf213",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF213",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf214",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF214",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf215",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF215",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf216",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF216",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf217",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF217",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf218",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF218",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf219",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF219",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf220",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF220",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf221",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF221",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf222",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF222",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf223",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF223",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf224",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF224",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf225",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF225",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf226",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF226",
+					"script": "pua"
+				},
+				{
+					"unicode": "\uf227",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uniF227",
+					"script": "pua"
+				}
+			]
 		}
 	],
 	"asciiLigatures": true,
-	"ucsurCodepoints": false,
 	"cartouches": true,
 	"combinedGlyphs": true,
-	"extendedGlyphs": false,
-	"variantGlyphs": false,
-	"randomizedGlyphs": false,
 	"homepage": "http://musilili.net/linja-pona/",
 	"source": {
 		"git": {

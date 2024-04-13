@@ -1,2 +1,5 @@
 checkouts
 node_modules
+GlyphData.xml
+__pycache__
+typings

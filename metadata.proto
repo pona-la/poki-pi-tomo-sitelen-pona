@@ -3,6 +3,7 @@ syntax = "proto3";
 import "google/protobuf/timestamp.proto";
 
 enum Category {
+    UNKNOWN_CATEGORY = 0;
 	// handwritten
 	LINJA_LUKA = 1;
 	// sans-serif, gothic, etc.
@@ -65,7 +66,17 @@ message Web {
 }
 
 enum Style {
+    UNKNOWN_STYLE = 0;
 	NORMAL = 1;
+}
+
+message Character {
+	string unicode = 1;
+	string production = 4;
+	string category = 2;
+	string subcategory = 5;
+	string script = 6;
+	string description = 3;
 }
 
 message Font {
@@ -73,6 +84,7 @@ message Font {
 	Style style = 2;
 	int32 weight = 3;
 	string filename = 4;
+	repeated Character characters = 5;
 }
 
 message GeneratedVariant {

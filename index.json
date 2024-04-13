@@ -2,7 +2,7 @@
 	"CraftyPE": {
 		"name": "CraftyPE",
 		"designer": "ParanormalChicken / Erek Butcher",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_ILO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -54,7 +54,7 @@
 	"Fairfax": {
 		"name": "Fairfax",
 		"designer": "jan Lepeka",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LEKO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -127,7 +127,7 @@
 	"FairfaxHD": {
 		"name": "FairfaxHD",
 		"designer": "jan Lepeka",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_ILO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -200,7 +200,7 @@
 	"Nishiki-teki": {
 		"name": "Nishiki-teki",
 		"designer": "Umihotaru",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_ILO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -247,7 +247,7 @@
 	"Nishiki-teki-lili": {
 		"name": "Nishiki-teki-lili",
 		"designer": "Umihotaru / jan Ke Tami",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_ILO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -429,7 +429,7 @@
 	"linja Sipiki": {
 		"name": "linja Sipiki",
 		"designer": "jan Sipiki & jan Ke Tami",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LEKO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -519,7 +519,7 @@
 	"linja luka": {
 		"name": "linja luka",
 		"designer": "jan Pensamin/jan Melon",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_LUKA",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -563,7 +563,7 @@
 	"linja namako": {
 		"name": "linja namako",
 		"designer": "jan Sikusi",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "KIWEN",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -654,7 +654,7 @@
 	"linja pona": {
 		"name": "linja pona",
 		"designer": "David A Roberts / jan Same",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_ILO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -746,7 +746,7 @@
 	"linja suwi": {
 		"name": "linja suwi",
 		"designer": "jan Ana",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_ILO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -792,7 +792,7 @@
 	"linja waso": {
 		"name": "linja waso",
 		"designer": "jan Maku (ItMarki)",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "KIWEN",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -882,7 +882,7 @@
 	"linja wawa": {
 		"name": "linja wawa",
 		"designer": "jan Melon / nimi Elemenopi",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_ILO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -1017,7 +1017,7 @@
 	"sitelen Kotopon": {
 		"name": "sitelen Kotopon",
 		"designer": "kala Asi",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LEKO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [
@@ -1062,7 +1062,7 @@
 	"sitelen seli kiwen": {
 		"name": "sitelen seli kiwen",
 		"designer": "jan Lepeka",
-		"license": "OFL-1.0",
+		"license": "OFL-1.1",
 		"category": "LINJA_LUKA",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
 		"fonts": [

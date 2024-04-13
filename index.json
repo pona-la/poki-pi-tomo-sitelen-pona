@@ -698,51 +698,6 @@
 			}
 		]
 	},
-	"linja sike": {
-		"name": "linja sike",
-		"designer": "lipamanka / kulupu poki",
-		"license": "OFL-1.1",
-		"category": "LINJA_ILO",
-		"dateAdded": "2024-02-16T06:38:28.373Z",
-		"fonts": [
-			{
-				"name": "linja sike",
-				"style": "NORMAL",
-				"weight": 400,
-				"filename": "linja-sike.otf"
-			}
-		],
-		"asciiLigatures": true,
-		"cartouches": true,
-		"combinedGlyphs": true,
-		"source": {
-			"web": {
-				"rootUrl": "https://lipamanka.gay"
-			},
-			"files": [
-				{
-					"sourceFile": "linja-sike-5.otf",
-					"destFile": "linja-sike.otf"
-				}
-			]
-		},
-		"version": "5",
-		"lastUpdated": "2024-04-12T04:00:00.000Z",
-		"generatedVariants": [
-			{
-				"forFilename": "linja-sike.otf",
-				"generatedFileName": "linja-sike.ttf"
-			},
-			{
-				"forFilename": "linja-sike.otf",
-				"generatedFileName": "linja-sike.woff"
-			},
-			{
-				"forFilename": "linja-sike.otf",
-				"generatedFileName": "linja-sike.woff2"
-			}
-		]
-	},
 	"linja suwi": {
 		"name": "linja suwi",
 		"designer": "jan Ana",

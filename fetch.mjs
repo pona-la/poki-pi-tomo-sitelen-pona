@@ -41,7 +41,7 @@ async function handleFamily(dir) {
 	}
 }
 
-// handleFamily("linja sike")
+handleFamily("CraftyPE")
 
 // for (const dir of fs.readdirSync("families")) {
 // 	if (dir == "linja wawa") {

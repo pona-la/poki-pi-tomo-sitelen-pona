@@ -1,7 +1,7 @@
 {
 	"CraftyPE": {
 		"name": "CraftyPE",
-		"designer": "ParanormalChicken / Erek Butcher",
+		"designer": "soweli Eweke (Erek Butcher)",
 		"license": "OFL-1.1",
 		"category": "LINJA_ILO",
 		"dateAdded": "2024-02-16T06:38:28.373Z",
@@ -927,7 +927,10 @@
 			}
 		],
 		"ucsurCodepoints": true,
+		"cartouches": true,
 		"combinedGlyphs": true,
+		"variantGlyphs": true,
+		"randomizedGlyphs": true,
 		"source": {
 			"git": {
 				"repositoryUrl": "https://github.com/ETBCOR/nasin-nanpa",
@@ -935,13 +938,13 @@
 			},
 			"files": [
 				{
-					"sourceFile": "versions/nasin-nanpa-3.1.0.otf",
+					"sourceFile": "versions/nasin-nanpa-4.0.0.otf",
 					"destFile": "nasin-nanpa.otf"
 				}
 			]
 		},
-		"version": "3.1.0",
-		"lastUpdated": "2024-02-12T04:00:00.000Z",
+		"version": "4.0.0",
+		"lastUpdated": "2024-04-19T04:00:00.000Z",
 		"generatedVariants": [
 			{
 				"forFilename": "nasin-nanpa.otf",

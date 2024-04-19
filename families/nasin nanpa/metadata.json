@@ -707,11 +707,83 @@
 					"script": "other"
 				},
 				{
+					"unicode": "\u200c",
+					"category": "Separator",
+					"description": "ZERO WIDTH NON-JOINER",
+					"production": "ZWNJ",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
 					"unicode": "\u200d",
 					"category": "Separator",
 					"description": "ZERO WIDTH JOINER",
 					"production": "ZWJ",
 					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2190",
+					"category": "Symbol",
+					"description": "LEFTWARDS ARROW",
+					"production": "arrowW",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2191",
+					"category": "Symbol",
+					"description": "UPWARDS ARROW",
+					"production": "arrowN",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2192",
+					"category": "Symbol",
+					"description": "RIGHTWARDS ARROW",
+					"production": "arrowE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2193",
+					"category": "Symbol",
+					"description": "DOWNWARDS ARROW",
+					"production": "arrowS",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2196",
+					"category": "Symbol",
+					"description": "NORTH WEST ARROW",
+					"production": "arrowNW",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2197",
+					"category": "Symbol",
+					"description": "NORTH EAST ARROW",
+					"production": "arrowNE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2198",
+					"category": "Symbol",
+					"description": "SOUTH EAST ARROW",
+					"production": "arrowSE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2199",
+					"category": "Symbol",
+					"description": "SOUTH WEST ARROW",
+					"production": "arrowSW",
+					"subcategory": "Arrow",
 					"script": "other"
 				},
 				{
@@ -726,7 +798,7 @@
 					"unicode": "\ufe00",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-1",
-					"production": "var1Tok",
+					"production": "VAR01",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -734,7 +806,15 @@
 					"unicode": "\ufe01",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-2",
-					"production": "var2Tok",
+					"production": "VAR02",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe02",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-3",
+					"production": "VAR03",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -742,7 +822,7 @@
 					"unicode": "\ufe03",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-4",
-					"production": "var3Tok",
+					"production": "VAR04",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -750,7 +830,31 @@
 					"unicode": "\ufe04",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-5",
-					"production": "var4Tok",
+					"production": "VAR05",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe05",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-6",
+					"production": "VAR06",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe06",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-7",
+					"production": "VAR07",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe07",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-8",
+					"production": "VAR08",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -1450,11 +1554,83 @@
 					"script": "other"
 				},
 				{
+					"unicode": "\u200c",
+					"category": "Separator",
+					"description": "ZERO WIDTH NON-JOINER",
+					"production": "ZWNJ",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
 					"unicode": "\u200d",
 					"category": "Separator",
 					"description": "ZERO WIDTH JOINER",
 					"production": "ZWJ",
 					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2190",
+					"category": "Symbol",
+					"description": "LEFTWARDS ARROW",
+					"production": "arrowW",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2191",
+					"category": "Symbol",
+					"description": "UPWARDS ARROW",
+					"production": "arrowN",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2192",
+					"category": "Symbol",
+					"description": "RIGHTWARDS ARROW",
+					"production": "arrowE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2193",
+					"category": "Symbol",
+					"description": "DOWNWARDS ARROW",
+					"production": "arrowS",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2196",
+					"category": "Symbol",
+					"description": "NORTH WEST ARROW",
+					"production": "arrowNW",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2197",
+					"category": "Symbol",
+					"description": "NORTH EAST ARROW",
+					"production": "arrowNE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2198",
+					"category": "Symbol",
+					"description": "SOUTH EAST ARROW",
+					"production": "arrowSE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2199",
+					"category": "Symbol",
+					"description": "SOUTH WEST ARROW",
+					"production": "arrowSW",
+					"subcategory": "Arrow",
 					"script": "other"
 				},
 				{
@@ -1469,7 +1645,7 @@
 					"unicode": "\ufe00",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-1",
-					"production": "var1Tok",
+					"production": "VAR01",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -1477,7 +1653,15 @@
 					"unicode": "\ufe01",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-2",
-					"production": "var2Tok",
+					"production": "VAR02",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe02",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-3",
+					"production": "VAR03",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -1485,7 +1669,7 @@
 					"unicode": "\ufe03",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-4",
-					"production": "var3Tok",
+					"production": "VAR04",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -1493,7 +1677,31 @@
 					"unicode": "\ufe04",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-5",
-					"production": "var4Tok",
+					"production": "VAR05",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe05",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-6",
+					"production": "VAR06",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe06",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-7",
+					"production": "VAR07",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe07",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-8",
+					"production": "VAR08",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -2460,28 +2668,35 @@
 					"unicode": "\udb86\udd90",
 					"category": "Private Use",
 					"description": "????",
-					"production": "cartStartTok",
+					"production": "startCartTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd91",
 					"category": "Private Use",
 					"description": "????",
-					"production": "cartEndTok",
+					"production": "endCartTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd92",
 					"category": "Private Use",
 					"description": "????",
-					"production": "cartExtCombTok",
+					"production": "combCartExtTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd93",
 					"category": "Private Use",
 					"description": "????",
-					"production": "piTok_contStartCombTok",
+					"production": "startLongPiTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd94",
+					"category": "Private Use",
+					"description": "????",
+					"production": "combLongPiExtTok",
 					"script": "pua"
 				},
 				{
@@ -2502,35 +2717,35 @@
 					"unicode": "\udb86\udd97",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contStartCombTok",
+					"production": "startLongGlyphTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd98",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contEndTok",
+					"production": "endLongGlyphTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd99",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contExtCombTok",
+					"production": "combLongGlyphExtTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd9a",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contStartTok",
+					"production": "startRevLongGlyphTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd9b",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contEndCombTok",
+					"production": "endRevLongGlyphTok",
 					"script": "pua"
 				},
 				{
@@ -2573,13 +2788,48 @@
 					"category": "Private Use",
 					"description": "????",
 					"production": "poweTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udda4",
+					"category": "Private Use",
+					"description": "????",
+					"production": "linluwiTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udda5",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kikiTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udda6",
+					"category": "Private Use",
+					"description": "????",
+					"production": "suTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\uddae",
+					"category": "Private Use",
+					"description": "????",
+					"production": "oweTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\uddc0",
+					"category": "Private Use",
+					"description": "????",
+					"production": "waTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\u0000",
 					"category": "Separator",
 					"description": "????",
-					"production": "space",
+					"production": "VAR01",
 					"script": "other"
 				},
 				{
@@ -3970,6 +4220,14 @@
 					"description": "TILDE",
 					"production": "asciitilde",
 					"subcategory": "Math",
+					"script": "other"
+				},
+				{
+					"unicode": "\u200c",
+					"category": "Separator",
+					"description": "ZERO WIDTH NON-JOINER",
+					"production": "ZWNJ",
+					"subcategory": "Nonspacing",
 					"script": "other"
 				},
 				{
@@ -3978,6 +4236,70 @@
 					"description": "ZERO WIDTH JOINER",
 					"production": "ZWJ",
 					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2190",
+					"category": "Symbol",
+					"description": "LEFTWARDS ARROW",
+					"production": "arrowW",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2191",
+					"category": "Symbol",
+					"description": "UPWARDS ARROW",
+					"production": "arrowN",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2192",
+					"category": "Symbol",
+					"description": "RIGHTWARDS ARROW",
+					"production": "arrowE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2193",
+					"category": "Symbol",
+					"description": "DOWNWARDS ARROW",
+					"production": "arrowS",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2196",
+					"category": "Symbol",
+					"description": "NORTH WEST ARROW",
+					"production": "arrowNW",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2197",
+					"category": "Symbol",
+					"description": "NORTH EAST ARROW",
+					"production": "arrowNE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2198",
+					"category": "Symbol",
+					"description": "SOUTH EAST ARROW",
+					"production": "arrowSE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2199",
+					"category": "Symbol",
+					"description": "SOUTH WEST ARROW",
+					"production": "arrowSW",
+					"subcategory": "Arrow",
 					"script": "other"
 				},
 				{
@@ -3992,7 +4314,7 @@
 					"unicode": "\ufe00",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-1",
-					"production": "var1Tok",
+					"production": "VAR01",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -4000,7 +4322,15 @@
 					"unicode": "\ufe01",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-2",
-					"production": "var2Tok",
+					"production": "VAR02",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe02",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-3",
+					"production": "VAR03",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -4008,7 +4338,7 @@
 					"unicode": "\ufe03",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-4",
-					"production": "var3Tok",
+					"production": "VAR04",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -4016,7 +4346,31 @@
 					"unicode": "\ufe04",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-5",
-					"production": "var4Tok",
+					"production": "VAR05",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe05",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-6",
+					"production": "VAR06",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe06",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-7",
+					"production": "VAR07",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe07",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-8",
+					"production": "VAR08",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -4716,11 +5070,83 @@
 					"script": "other"
 				},
 				{
+					"unicode": "\u200c",
+					"category": "Separator",
+					"description": "ZERO WIDTH NON-JOINER",
+					"production": "ZWNJ",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
 					"unicode": "\u200d",
 					"category": "Separator",
 					"description": "ZERO WIDTH JOINER",
 					"production": "ZWJ",
 					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2190",
+					"category": "Symbol",
+					"description": "LEFTWARDS ARROW",
+					"production": "arrowW",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2191",
+					"category": "Symbol",
+					"description": "UPWARDS ARROW",
+					"production": "arrowN",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2192",
+					"category": "Symbol",
+					"description": "RIGHTWARDS ARROW",
+					"production": "arrowE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2193",
+					"category": "Symbol",
+					"description": "DOWNWARDS ARROW",
+					"production": "arrowS",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2196",
+					"category": "Symbol",
+					"description": "NORTH WEST ARROW",
+					"production": "arrowNW",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2197",
+					"category": "Symbol",
+					"description": "NORTH EAST ARROW",
+					"production": "arrowNE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2198",
+					"category": "Symbol",
+					"description": "SOUTH EAST ARROW",
+					"production": "arrowSE",
+					"subcategory": "Arrow",
+					"script": "other"
+				},
+				{
+					"unicode": "\u2199",
+					"category": "Symbol",
+					"description": "SOUTH WEST ARROW",
+					"production": "arrowSW",
+					"subcategory": "Arrow",
 					"script": "other"
 				},
 				{
@@ -4735,7 +5161,7 @@
 					"unicode": "\ufe00",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-1",
-					"production": "var1Tok",
+					"production": "VAR01",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -4743,7 +5169,15 @@
 					"unicode": "\ufe01",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-2",
-					"production": "var2Tok",
+					"production": "VAR02",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe02",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-3",
+					"production": "VAR03",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -4751,7 +5185,7 @@
 					"unicode": "\ufe03",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-4",
-					"production": "var3Tok",
+					"production": "VAR04",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -4759,7 +5193,31 @@
 					"unicode": "\ufe04",
 					"category": "Mark",
 					"description": "VARIATION SELECTOR-5",
-					"production": "var4Tok",
+					"production": "VAR05",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe05",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-6",
+					"production": "VAR06",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe06",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-7",
+					"production": "VAR07",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\ufe07",
+					"category": "Mark",
+					"description": "VARIATION SELECTOR-8",
+					"production": "VAR08",
 					"subcategory": "Nonspacing",
 					"script": "other"
 				},
@@ -5726,28 +6184,35 @@
 					"unicode": "\udb86\udd90",
 					"category": "Private Use",
 					"description": "????",
-					"production": "cartStartTok",
+					"production": "startCartTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd91",
 					"category": "Private Use",
 					"description": "????",
-					"production": "cartEndTok",
+					"production": "endCartTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd92",
 					"category": "Private Use",
 					"description": "????",
-					"production": "cartExtCombTok",
+					"production": "combCartExtTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd93",
 					"category": "Private Use",
 					"description": "????",
-					"production": "piTok_contStartCombTok",
+					"production": "startLongPiTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd94",
+					"category": "Private Use",
+					"description": "????",
+					"production": "combLongPiExtTok",
 					"script": "pua"
 				},
 				{
@@ -5768,35 +6233,35 @@
 					"unicode": "\udb86\udd97",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contStartCombTok",
+					"production": "startLongGlyphTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd98",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contEndTok",
+					"production": "endLongGlyphTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd99",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contExtCombTok",
+					"production": "combLongGlyphExtTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd9a",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contStartTok",
+					"production": "startRevLongGlyphTok",
 					"script": "pua"
 				},
 				{
 					"unicode": "\udb86\udd9b",
 					"category": "Private Use",
 					"description": "????",
-					"production": "contEndCombTok",
+					"production": "endRevLongGlyphTok",
 					"script": "pua"
 				},
 				{
@@ -5840,12 +6305,50 @@
 					"description": "????",
 					"production": "poweTok",
 					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udda4",
+					"category": "Private Use",
+					"description": "????",
+					"production": "linluwiTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udda5",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kikiTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udda6",
+					"category": "Private Use",
+					"description": "????",
+					"production": "suTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\uddae",
+					"category": "Private Use",
+					"description": "????",
+					"production": "oweTok",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\uddc0",
+					"category": "Private Use",
+					"description": "????",
+					"production": "waTok",
+					"script": "pua"
 				}
 			]
 		}
 	],
 	"ucsurCodepoints": true,
+	"cartouches": true,
 	"combinedGlyphs": true,
+	"variantGlyphs": true,
+	"randomizedGlyphs": true,
 	"source": {
 		"git": {
 			"repositoryUrl": "https://github.com/ETBCOR/nasin-nanpa",
@@ -5853,13 +6356,13 @@
 		},
 		"files": [
 			{
-				"sourceFile": "versions/nasin-nanpa-3.1.0.otf",
+				"sourceFile": "versions/nasin-nanpa-4.0.0.otf",
 				"destFile": "nasin-nanpa.otf"
 			}
 		]
 	},
-	"version": "3.1.0",
-	"lastUpdated": "2024-02-12T04:00:00.000Z",
+	"version": "4.0.0",
+	"lastUpdated": "2024-04-19T04:00:00.000Z",
 	"generatedVariants": [
 		{
 			"forFilename": "nasin-nanpa.otf",

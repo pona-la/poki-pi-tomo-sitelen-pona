@@ -866,6 +866,52 @@
 			}
 		]
 	},
+	"nasin luka": {
+		"name": "nasin luka",
+		"designer": "trollbreeder",
+		"license": "OFL-1.1",
+		"category": "LINJA_LUKA",
+		"dateAdded": "2024-04-19T06:38:28.373Z",
+		"fonts": [
+			{
+				"name": "nasin luka",
+				"style": "NORMAL",
+				"weight": 400,
+				"filename": "nasinluka.otf"
+			}
+		],
+		"ucsurCodepoints": true,
+		"cartouches": true,
+		"combinedGlyphs": true,
+		"extendedGlyphs": true,
+		"source": {
+			"web": {
+				"rootUrl": "https://trollbreeder.neocities.org/"
+			},
+			"files": [
+				{
+					"sourceFile": "nasinluka.otf",
+					"destFile": "nasinluka.otf"
+				}
+			]
+		},
+		"version": "1.3",
+		"lastUpdated": "2024-04-19T04:00:00.000Z",
+		"generatedVariants": [
+			{
+				"forFilename": "nasinluka.otf",
+				"generatedFileName": "nasinluka.ttf"
+			},
+			{
+				"forFilename": "nasin_luka.otf",
+				"generatedFileName": "nasinluka.woff"
+			},
+			{
+				"forFilename": "nasin_luka.otf",
+				"generatedFileName": "nasinluka.woff2"
+			}
+		]
+	},
 	"nasin nanpa": {
 		"name": "nasin nanpa",
 		"designer": "jan Itan",

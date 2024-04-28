@@ -6,6 +6,7 @@
     "spdx-expression-parse": "^4.0.0"
   },
   "scripts": {
+    "task": "node task.mjs",
     "fetch": "node fetch.mjs",
     "make-variants": "node make-variants.mjs",
     "note-variants": "node note-variants.mjs",

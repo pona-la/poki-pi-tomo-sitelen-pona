@@ -16,7 +16,7 @@
 		"ucsurCodepoints": true,
 		"source": {
 			"git": {
-				"repositoryUrl": "https://github.com/ParanormalChicken/CraftyPE",
+				"repositoryUrl": "https://github.com/The-Haunted-Coop/CraftyPE",
 				"ref": "main"
 			},
 			"files": [
@@ -500,6 +500,52 @@
 			{
 				"forFilename": "linja-ante.ttf",
 				"generatedFileName": "linja-ante.woff2"
+			}
+		]
+	},
+	"linja laso": {
+		"name": "linja laso",
+		"designer": "mute ante",
+		"license": "OFL-1.1",
+		"category": "LINJA_ILO",
+		"dateAdded": "2024-04-28T06:38:28.373Z",
+		"fonts": [
+			{
+				"name": "leko majuna",
+				"style": "NORMAL",
+				"weight": 400,
+				"filename": "linja_laso.ttf"
+			}
+		],
+		"asciiLigatures": true,
+		"ucsurCodepoints": true,
+		"homepage": "https://github.com/cvni1981/linja-laso",
+		"source": {
+			"git": {
+				"repositoryUrl": "https://github.com/cvni1981/linja-laso.git",
+				"ref": "main"
+			},
+			"files": [
+				{
+					"sourceFile": "linja_laso_0.1.ttf",
+					"destFile": "linja_laso.ttf"
+				}
+			]
+		},
+		"version": "1.0",
+		"lastUpdated": "2024-04-28T05:00:00.000Z",
+		"generatedVariants": [
+			{
+				"forFilename": "linja_laso.ttf",
+				"generatedFileName": "linja_laso.otf"
+			},
+			{
+				"forFilename": "linja_laso.ttf",
+				"generatedFileName": "linja_laso.woff"
+			},
+			{
+				"forFilename": "linja_laso.ttf",
+				"generatedFileName": "linja_laso.woff2"
 			}
 		]
 	},

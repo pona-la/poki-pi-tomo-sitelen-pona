@@ -1,0 +1,4114 @@
+{
+	"name": "linja laso",
+	"designer": "mute ante",
+	"license": "OFL-1.1",
+	"category": "LINJA_ILO",
+	"dateAdded": "2024-04-28T06:38:28.373Z",
+	"fonts": [
+		{
+			"name": "leko majuna",
+			"style": "NORMAL",
+			"weight": 400,
+			"filename": "linja_laso.ttf",
+			"characters": [
+				{
+					"unicode": " ",
+					"category": "Separator",
+					"description": "SPACE",
+					"production": "space",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": ",",
+					"category": "Punctuation",
+					"description": "COMMA",
+					"production": "comma",
+					"script": "other"
+				},
+				{
+					"unicode": "-",
+					"category": "Punctuation",
+					"description": "HYPHEN-MINUS",
+					"production": "hyphen",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": ".",
+					"category": "Punctuation",
+					"description": "FULL STOP",
+					"production": "period",
+					"script": "other"
+				},
+				{
+					"unicode": "0",
+					"category": "Number",
+					"description": "DIGIT ZERO",
+					"production": "zero",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "1",
+					"category": "Number",
+					"description": "DIGIT ONE",
+					"production": "one",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "2",
+					"category": "Number",
+					"description": "DIGIT TWO",
+					"production": "two",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "3",
+					"category": "Number",
+					"description": "DIGIT THREE",
+					"production": "three",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "4",
+					"category": "Number",
+					"description": "DIGIT FOUR",
+					"production": "four",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "5",
+					"category": "Number",
+					"description": "DIGIT FIVE",
+					"production": "five",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "6",
+					"category": "Number",
+					"description": "DIGIT SIX",
+					"production": "six",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "7",
+					"category": "Number",
+					"description": "DIGIT SEVEN",
+					"production": "seven",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "8",
+					"category": "Number",
+					"description": "DIGIT EIGHT",
+					"production": "eight",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "9",
+					"category": "Number",
+					"description": "DIGIT NINE",
+					"production": "nine",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": ":",
+					"category": "Punctuation",
+					"description": "COLON",
+					"production": "colon",
+					"script": "other"
+				},
+				{
+					"unicode": "A",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A",
+					"production": "A",
+					"script": "latin"
+				},
+				{
+					"unicode": "B",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER B",
+					"production": "B",
+					"script": "latin"
+				},
+				{
+					"unicode": "C",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C",
+					"production": "C",
+					"script": "latin"
+				},
+				{
+					"unicode": "D",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER D",
+					"production": "D",
+					"script": "latin"
+				},
+				{
+					"unicode": "E",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E",
+					"production": "E",
+					"script": "latin"
+				},
+				{
+					"unicode": "F",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER F",
+					"production": "F",
+					"script": "latin"
+				},
+				{
+					"unicode": "G",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER G",
+					"production": "G",
+					"script": "latin"
+				},
+				{
+					"unicode": "H",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER H",
+					"production": "H",
+					"script": "latin"
+				},
+				{
+					"unicode": "I",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I",
+					"production": "I",
+					"script": "latin"
+				},
+				{
+					"unicode": "J",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER J",
+					"production": "J",
+					"script": "latin"
+				},
+				{
+					"unicode": "K",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER K",
+					"production": "K",
+					"script": "latin"
+				},
+				{
+					"unicode": "L",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER L",
+					"production": "L",
+					"script": "latin"
+				},
+				{
+					"unicode": "M",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER M",
+					"production": "M",
+					"script": "latin"
+				},
+				{
+					"unicode": "N",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N",
+					"production": "N",
+					"script": "latin"
+				},
+				{
+					"unicode": "O",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O",
+					"production": "O",
+					"script": "latin"
+				},
+				{
+					"unicode": "P",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER P",
+					"production": "P",
+					"script": "latin"
+				},
+				{
+					"unicode": "Q",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Q",
+					"production": "Q",
+					"script": "latin"
+				},
+				{
+					"unicode": "R",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER R",
+					"production": "R",
+					"script": "latin"
+				},
+				{
+					"unicode": "S",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S",
+					"production": "S",
+					"script": "latin"
+				},
+				{
+					"unicode": "T",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER T",
+					"production": "T",
+					"script": "latin"
+				},
+				{
+					"unicode": "U",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U",
+					"production": "U",
+					"script": "latin"
+				},
+				{
+					"unicode": "V",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER V",
+					"production": "V",
+					"script": "latin"
+				},
+				{
+					"unicode": "W",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER W",
+					"production": "W",
+					"script": "latin"
+				},
+				{
+					"unicode": "X",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER X",
+					"production": "X",
+					"script": "latin"
+				},
+				{
+					"unicode": "Y",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y",
+					"production": "Y",
+					"script": "latin"
+				},
+				{
+					"unicode": "Z",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z",
+					"production": "Z",
+					"script": "latin"
+				},
+				{
+					"unicode": "[",
+					"category": "Punctuation",
+					"description": "LEFT SQUARE BRACKET",
+					"production": "bracketleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "]",
+					"category": "Punctuation",
+					"description": "RIGHT SQUARE BRACKET",
+					"production": "bracketright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "a",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A",
+					"production": "a",
+					"script": "latin"
+				},
+				{
+					"unicode": "e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER E",
+					"production": "e",
+					"script": "latin"
+				},
+				{
+					"unicode": "i",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER I",
+					"production": "i",
+					"script": "latin"
+				},
+				{
+					"unicode": "j",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER J",
+					"production": "j",
+					"script": "latin"
+				},
+				{
+					"unicode": "k",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER K",
+					"production": "k",
+					"script": "latin"
+				},
+				{
+					"unicode": "l",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER L",
+					"production": "l",
+					"script": "latin"
+				},
+				{
+					"unicode": "m",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER M",
+					"production": "m",
+					"script": "latin"
+				},
+				{
+					"unicode": "n",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER N",
+					"production": "n",
+					"script": "latin"
+				},
+				{
+					"unicode": "o",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O",
+					"production": "o",
+					"script": "latin"
+				},
+				{
+					"unicode": "p",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER P",
+					"production": "p",
+					"script": "latin"
+				},
+				{
+					"unicode": "s",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S",
+					"production": "s",
+					"script": "latin"
+				},
+				{
+					"unicode": "t",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER T",
+					"production": "t",
+					"script": "latin"
+				},
+				{
+					"unicode": "u",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U",
+					"production": "u",
+					"script": "latin"
+				},
+				{
+					"unicode": "w",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER W",
+					"production": "w",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00b7",
+					"category": "Punctuation",
+					"description": "MIDDLE DOT",
+					"production": "periodcentered",
+					"script": "other"
+				},
+				{
+					"unicode": "\u200d",
+					"category": "Separator",
+					"description": "ZERO WIDTH JOINER",
+					"production": "zwj",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": " ",
+					"category": "Separator",
+					"description": "SPACE",
+					"production": "space",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": ",",
+					"category": "Punctuation",
+					"description": "COMMA",
+					"production": "comma",
+					"script": "other"
+				},
+				{
+					"unicode": "-",
+					"category": "Punctuation",
+					"description": "HYPHEN-MINUS",
+					"production": "hyphen",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": ".",
+					"category": "Punctuation",
+					"description": "FULL STOP",
+					"production": "period",
+					"script": "other"
+				},
+				{
+					"unicode": "0",
+					"category": "Number",
+					"description": "DIGIT ZERO",
+					"production": "zero",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "1",
+					"category": "Number",
+					"description": "DIGIT ONE",
+					"production": "one",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "2",
+					"category": "Number",
+					"description": "DIGIT TWO",
+					"production": "two",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "3",
+					"category": "Number",
+					"description": "DIGIT THREE",
+					"production": "three",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "4",
+					"category": "Number",
+					"description": "DIGIT FOUR",
+					"production": "four",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "5",
+					"category": "Number",
+					"description": "DIGIT FIVE",
+					"production": "five",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "6",
+					"category": "Number",
+					"description": "DIGIT SIX",
+					"production": "six",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "7",
+					"category": "Number",
+					"description": "DIGIT SEVEN",
+					"production": "seven",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "8",
+					"category": "Number",
+					"description": "DIGIT EIGHT",
+					"production": "eight",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "9",
+					"category": "Number",
+					"description": "DIGIT NINE",
+					"production": "nine",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": ":",
+					"category": "Punctuation",
+					"description": "COLON",
+					"production": "colon",
+					"script": "other"
+				},
+				{
+					"unicode": "A",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A",
+					"production": "A",
+					"script": "latin"
+				},
+				{
+					"unicode": "B",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER B",
+					"production": "B",
+					"script": "latin"
+				},
+				{
+					"unicode": "C",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C",
+					"production": "C",
+					"script": "latin"
+				},
+				{
+					"unicode": "D",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER D",
+					"production": "D",
+					"script": "latin"
+				},
+				{
+					"unicode": "E",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E",
+					"production": "E",
+					"script": "latin"
+				},
+				{
+					"unicode": "F",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER F",
+					"production": "F",
+					"script": "latin"
+				},
+				{
+					"unicode": "G",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER G",
+					"production": "G",
+					"script": "latin"
+				},
+				{
+					"unicode": "H",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER H",
+					"production": "H",
+					"script": "latin"
+				},
+				{
+					"unicode": "I",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I",
+					"production": "I",
+					"script": "latin"
+				},
+				{
+					"unicode": "J",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER J",
+					"production": "J",
+					"script": "latin"
+				},
+				{
+					"unicode": "K",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER K",
+					"production": "K",
+					"script": "latin"
+				},
+				{
+					"unicode": "L",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER L",
+					"production": "L",
+					"script": "latin"
+				},
+				{
+					"unicode": "M",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER M",
+					"production": "M",
+					"script": "latin"
+				},
+				{
+					"unicode": "N",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N",
+					"production": "N",
+					"script": "latin"
+				},
+				{
+					"unicode": "O",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O",
+					"production": "O",
+					"script": "latin"
+				},
+				{
+					"unicode": "P",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER P",
+					"production": "P",
+					"script": "latin"
+				},
+				{
+					"unicode": "Q",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Q",
+					"production": "Q",
+					"script": "latin"
+				},
+				{
+					"unicode": "R",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER R",
+					"production": "R",
+					"script": "latin"
+				},
+				{
+					"unicode": "S",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S",
+					"production": "S",
+					"script": "latin"
+				},
+				{
+					"unicode": "T",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER T",
+					"production": "T",
+					"script": "latin"
+				},
+				{
+					"unicode": "U",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U",
+					"production": "U",
+					"script": "latin"
+				},
+				{
+					"unicode": "V",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER V",
+					"production": "V",
+					"script": "latin"
+				},
+				{
+					"unicode": "W",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER W",
+					"production": "W",
+					"script": "latin"
+				},
+				{
+					"unicode": "X",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER X",
+					"production": "X",
+					"script": "latin"
+				},
+				{
+					"unicode": "Y",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y",
+					"production": "Y",
+					"script": "latin"
+				},
+				{
+					"unicode": "Z",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z",
+					"production": "Z",
+					"script": "latin"
+				},
+				{
+					"unicode": "[",
+					"category": "Punctuation",
+					"description": "LEFT SQUARE BRACKET",
+					"production": "bracketleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "]",
+					"category": "Punctuation",
+					"description": "RIGHT SQUARE BRACKET",
+					"production": "bracketright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "a",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A",
+					"production": "a",
+					"script": "latin"
+				},
+				{
+					"unicode": "e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER E",
+					"production": "e",
+					"script": "latin"
+				},
+				{
+					"unicode": "i",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER I",
+					"production": "i",
+					"script": "latin"
+				},
+				{
+					"unicode": "j",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER J",
+					"production": "j",
+					"script": "latin"
+				},
+				{
+					"unicode": "k",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER K",
+					"production": "k",
+					"script": "latin"
+				},
+				{
+					"unicode": "l",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER L",
+					"production": "l",
+					"script": "latin"
+				},
+				{
+					"unicode": "m",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER M",
+					"production": "m",
+					"script": "latin"
+				},
+				{
+					"unicode": "n",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER N",
+					"production": "n",
+					"script": "latin"
+				},
+				{
+					"unicode": "o",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O",
+					"production": "o",
+					"script": "latin"
+				},
+				{
+					"unicode": "p",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER P",
+					"production": "p",
+					"script": "latin"
+				},
+				{
+					"unicode": "s",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S",
+					"production": "s",
+					"script": "latin"
+				},
+				{
+					"unicode": "t",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER T",
+					"production": "t",
+					"script": "latin"
+				},
+				{
+					"unicode": "u",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U",
+					"production": "u",
+					"script": "latin"
+				},
+				{
+					"unicode": "w",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER W",
+					"production": "w",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00b7",
+					"category": "Punctuation",
+					"description": "MIDDLE DOT",
+					"production": "periodcentered",
+					"script": "other"
+				},
+				{
+					"unicode": "\u200d",
+					"category": "Separator",
+					"description": "ZERO WIDTH JOINER",
+					"production": "zwj",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\udb86\udd00",
+					"category": "Private Use",
+					"description": "????",
+					"production": "a.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd01",
+					"category": "Private Use",
+					"description": "????",
+					"production": "akesi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd02",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ala.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd03",
+					"category": "Private Use",
+					"description": "????",
+					"production": "alasa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd04",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ale.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd05",
+					"category": "Private Use",
+					"description": "????",
+					"production": "anpa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd06",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ante.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd07",
+					"category": "Private Use",
+					"description": "????",
+					"production": "anu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd08",
+					"category": "Private Use",
+					"description": "????",
+					"production": "awen.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd09",
+					"category": "Private Use",
+					"description": "????",
+					"production": "e.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "en.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "esun.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ijo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ike.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ilo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "insa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd10",
+					"category": "Private Use",
+					"description": "????",
+					"production": "jaki.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd11",
+					"category": "Private Use",
+					"description": "????",
+					"production": "jan.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd12",
+					"category": "Private Use",
+					"description": "????",
+					"production": "jelo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd13",
+					"category": "Private Use",
+					"description": "????",
+					"production": "jo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd14",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kala.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd15",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kalama.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd16",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kama.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd17",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kasi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd18",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ken.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd19",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kepeken.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kili.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kiwen.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ko.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kon.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kule.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kulupu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd20",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kute.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd21",
+					"category": "Private Use",
+					"description": "????",
+					"production": "la.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd22",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lape.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd23",
+					"category": "Private Use",
+					"description": "????",
+					"production": "laso.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd24",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lawa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd25",
+					"category": "Private Use",
+					"description": "????",
+					"production": "len.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd26",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lete.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd27",
+					"category": "Private Use",
+					"description": "????",
+					"production": "li.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd28",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lili.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd29",
+					"category": "Private Use",
+					"description": "????",
+					"production": "linja.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lipu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "loje.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lon.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "luka.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lukin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lupa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd30",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ma.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd31",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mama.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd32",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mani.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd33",
+					"category": "Private Use",
+					"description": "????",
+					"production": "meli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd34",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd35",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mije.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd36",
+					"category": "Private Use",
+					"description": "????",
+					"production": "moku.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd37",
+					"category": "Private Use",
+					"description": "????",
+					"production": "moli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd38",
+					"category": "Private Use",
+					"description": "????",
+					"production": "monsi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd39",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mun.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "musi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mute.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nanpa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nasa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nasin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd40",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nena.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd41",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ni.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd42",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nimi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd43",
+					"category": "Private Use",
+					"description": "????",
+					"production": "noka.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd44",
+					"category": "Private Use",
+					"description": "????",
+					"production": "o.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd45",
+					"category": "Private Use",
+					"description": "????",
+					"production": "olin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd46",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ona.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd47",
+					"category": "Private Use",
+					"description": "????",
+					"production": "open.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd48",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pakala.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd49",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pali.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "palisa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pan.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pana.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pilin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pimeja.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd50",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pini.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd51",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pipi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd52",
+					"category": "Private Use",
+					"description": "????",
+					"production": "poka.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd53",
+					"category": "Private Use",
+					"description": "????",
+					"production": "poki.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd54",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pona.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd55",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd56",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sama.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd57",
+					"category": "Private Use",
+					"description": "????",
+					"production": "seli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd58",
+					"category": "Private Use",
+					"description": "????",
+					"production": "selo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd59",
+					"category": "Private Use",
+					"description": "????",
+					"production": "seme.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sewi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sijelo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sike.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sina.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sinpin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd60",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sitelen.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd61",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sona.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd62",
+					"category": "Private Use",
+					"description": "????",
+					"production": "soweli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd63",
+					"category": "Private Use",
+					"description": "????",
+					"production": "suli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd64",
+					"category": "Private Use",
+					"description": "????",
+					"production": "suno.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd65",
+					"category": "Private Use",
+					"description": "????",
+					"production": "supa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd66",
+					"category": "Private Use",
+					"description": "????",
+					"production": "suwi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd67",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tan.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd68",
+					"category": "Private Use",
+					"description": "????",
+					"production": "taso.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd69",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tawa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "telo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tenpo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "toki.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tomo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "unpa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd70",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uta.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd71",
+					"category": "Private Use",
+					"description": "????",
+					"production": "utala.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd72",
+					"category": "Private Use",
+					"description": "????",
+					"production": "walo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd73",
+					"category": "Private Use",
+					"description": "????",
+					"production": "wan.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd74",
+					"category": "Private Use",
+					"description": "????",
+					"production": "waso.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd75",
+					"category": "Private Use",
+					"description": "????",
+					"production": "wawa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd76",
+					"category": "Private Use",
+					"description": "????",
+					"production": "weka.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd77",
+					"category": "Private Use",
+					"description": "????",
+					"production": "wile.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd78",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF1978",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd79",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF1979",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "leko.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd80",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kijetesantakalu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd86",
+					"category": "Private Use",
+					"description": "????",
+					"production": "n.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd89",
+					"category": "Private Use",
+					"description": "????",
+					"production": "wide.space",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd90",
+					"category": "Private Use",
+					"description": "????",
+					"production": "cartouche.start",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd91",
+					"category": "Private Use",
+					"description": "????",
+					"production": "cartouche.end",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd92",
+					"category": "Private Use",
+					"description": "????",
+					"production": "cartouche.body",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd95",
+					"category": "Private Use",
+					"description": "????",
+					"production": "stackjoiner",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd9c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "dot",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd9d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "colon.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\u0000",
+					"category": "Separator",
+					"description": "????",
+					"production": ".null",
+					"script": "other"
+				},
+				{
+					"unicode": "\r",
+					"category": "Separator",
+					"description": "????",
+					"production": "nonmarkingreturn",
+					"script": "other"
+				},
+				{
+					"unicode": " ",
+					"category": "Separator",
+					"description": "SPACE",
+					"production": "space",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": ",",
+					"category": "Punctuation",
+					"description": "COMMA",
+					"production": "comma",
+					"script": "other"
+				},
+				{
+					"unicode": "-",
+					"category": "Punctuation",
+					"description": "HYPHEN-MINUS",
+					"production": "hyphen",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": ".",
+					"category": "Punctuation",
+					"description": "FULL STOP",
+					"production": "period",
+					"script": "other"
+				},
+				{
+					"unicode": "0",
+					"category": "Number",
+					"description": "DIGIT ZERO",
+					"production": "zero",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "1",
+					"category": "Number",
+					"description": "DIGIT ONE",
+					"production": "one",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "2",
+					"category": "Number",
+					"description": "DIGIT TWO",
+					"production": "two",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "3",
+					"category": "Number",
+					"description": "DIGIT THREE",
+					"production": "three",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "4",
+					"category": "Number",
+					"description": "DIGIT FOUR",
+					"production": "four",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "5",
+					"category": "Number",
+					"description": "DIGIT FIVE",
+					"production": "five",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "6",
+					"category": "Number",
+					"description": "DIGIT SIX",
+					"production": "six",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "7",
+					"category": "Number",
+					"description": "DIGIT SEVEN",
+					"production": "seven",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "8",
+					"category": "Number",
+					"description": "DIGIT EIGHT",
+					"production": "eight",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "9",
+					"category": "Number",
+					"description": "DIGIT NINE",
+					"production": "nine",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": ":",
+					"category": "Punctuation",
+					"description": "COLON",
+					"production": "colon",
+					"script": "other"
+				},
+				{
+					"unicode": "A",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A",
+					"production": "A",
+					"script": "latin"
+				},
+				{
+					"unicode": "B",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER B",
+					"production": "B",
+					"script": "latin"
+				},
+				{
+					"unicode": "C",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C",
+					"production": "C",
+					"script": "latin"
+				},
+				{
+					"unicode": "D",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER D",
+					"production": "D",
+					"script": "latin"
+				},
+				{
+					"unicode": "E",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E",
+					"production": "E",
+					"script": "latin"
+				},
+				{
+					"unicode": "F",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER F",
+					"production": "F",
+					"script": "latin"
+				},
+				{
+					"unicode": "G",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER G",
+					"production": "G",
+					"script": "latin"
+				},
+				{
+					"unicode": "H",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER H",
+					"production": "H",
+					"script": "latin"
+				},
+				{
+					"unicode": "I",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I",
+					"production": "I",
+					"script": "latin"
+				},
+				{
+					"unicode": "J",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER J",
+					"production": "J",
+					"script": "latin"
+				},
+				{
+					"unicode": "K",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER K",
+					"production": "K",
+					"script": "latin"
+				},
+				{
+					"unicode": "L",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER L",
+					"production": "L",
+					"script": "latin"
+				},
+				{
+					"unicode": "M",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER M",
+					"production": "M",
+					"script": "latin"
+				},
+				{
+					"unicode": "N",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N",
+					"production": "N",
+					"script": "latin"
+				},
+				{
+					"unicode": "O",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O",
+					"production": "O",
+					"script": "latin"
+				},
+				{
+					"unicode": "P",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER P",
+					"production": "P",
+					"script": "latin"
+				},
+				{
+					"unicode": "Q",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Q",
+					"production": "Q",
+					"script": "latin"
+				},
+				{
+					"unicode": "R",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER R",
+					"production": "R",
+					"script": "latin"
+				},
+				{
+					"unicode": "S",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S",
+					"production": "S",
+					"script": "latin"
+				},
+				{
+					"unicode": "T",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER T",
+					"production": "T",
+					"script": "latin"
+				},
+				{
+					"unicode": "U",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U",
+					"production": "U",
+					"script": "latin"
+				},
+				{
+					"unicode": "V",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER V",
+					"production": "V",
+					"script": "latin"
+				},
+				{
+					"unicode": "W",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER W",
+					"production": "W",
+					"script": "latin"
+				},
+				{
+					"unicode": "X",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER X",
+					"production": "X",
+					"script": "latin"
+				},
+				{
+					"unicode": "Y",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y",
+					"production": "Y",
+					"script": "latin"
+				},
+				{
+					"unicode": "Z",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z",
+					"production": "Z",
+					"script": "latin"
+				},
+				{
+					"unicode": "[",
+					"category": "Punctuation",
+					"description": "LEFT SQUARE BRACKET",
+					"production": "bracketleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "]",
+					"category": "Punctuation",
+					"description": "RIGHT SQUARE BRACKET",
+					"production": "bracketright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "a",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A",
+					"production": "a",
+					"script": "latin"
+				},
+				{
+					"unicode": "e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER E",
+					"production": "e",
+					"script": "latin"
+				},
+				{
+					"unicode": "i",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER I",
+					"production": "i",
+					"script": "latin"
+				},
+				{
+					"unicode": "j",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER J",
+					"production": "j",
+					"script": "latin"
+				},
+				{
+					"unicode": "k",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER K",
+					"production": "k",
+					"script": "latin"
+				},
+				{
+					"unicode": "l",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER L",
+					"production": "l",
+					"script": "latin"
+				},
+				{
+					"unicode": "m",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER M",
+					"production": "m",
+					"script": "latin"
+				},
+				{
+					"unicode": "n",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER N",
+					"production": "n",
+					"script": "latin"
+				},
+				{
+					"unicode": "o",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O",
+					"production": "o",
+					"script": "latin"
+				},
+				{
+					"unicode": "p",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER P",
+					"production": "p",
+					"script": "latin"
+				},
+				{
+					"unicode": "s",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S",
+					"production": "s",
+					"script": "latin"
+				},
+				{
+					"unicode": "t",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER T",
+					"production": "t",
+					"script": "latin"
+				},
+				{
+					"unicode": "u",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U",
+					"production": "u",
+					"script": "latin"
+				},
+				{
+					"unicode": "w",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER W",
+					"production": "w",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00e1",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A WITH ACUTE",
+					"production": "periodcentered",
+					"script": "latin"
+				},
+				{
+					"unicode": " ",
+					"category": "Separator",
+					"description": "SPACE",
+					"production": "space",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": ",",
+					"category": "Punctuation",
+					"description": "COMMA",
+					"production": "comma",
+					"script": "other"
+				},
+				{
+					"unicode": "-",
+					"category": "Punctuation",
+					"description": "HYPHEN-MINUS",
+					"production": "hyphen",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": ".",
+					"category": "Punctuation",
+					"description": "FULL STOP",
+					"production": "period",
+					"script": "other"
+				},
+				{
+					"unicode": "0",
+					"category": "Number",
+					"description": "DIGIT ZERO",
+					"production": "zero",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "1",
+					"category": "Number",
+					"description": "DIGIT ONE",
+					"production": "one",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "2",
+					"category": "Number",
+					"description": "DIGIT TWO",
+					"production": "two",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "3",
+					"category": "Number",
+					"description": "DIGIT THREE",
+					"production": "three",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "4",
+					"category": "Number",
+					"description": "DIGIT FOUR",
+					"production": "four",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "5",
+					"category": "Number",
+					"description": "DIGIT FIVE",
+					"production": "five",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "6",
+					"category": "Number",
+					"description": "DIGIT SIX",
+					"production": "six",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "7",
+					"category": "Number",
+					"description": "DIGIT SEVEN",
+					"production": "seven",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "8",
+					"category": "Number",
+					"description": "DIGIT EIGHT",
+					"production": "eight",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "9",
+					"category": "Number",
+					"description": "DIGIT NINE",
+					"production": "nine",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": ":",
+					"category": "Punctuation",
+					"description": "COLON",
+					"production": "colon",
+					"script": "other"
+				},
+				{
+					"unicode": "A",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A",
+					"production": "A",
+					"script": "latin"
+				},
+				{
+					"unicode": "B",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER B",
+					"production": "B",
+					"script": "latin"
+				},
+				{
+					"unicode": "C",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C",
+					"production": "C",
+					"script": "latin"
+				},
+				{
+					"unicode": "D",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER D",
+					"production": "D",
+					"script": "latin"
+				},
+				{
+					"unicode": "E",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E",
+					"production": "E",
+					"script": "latin"
+				},
+				{
+					"unicode": "F",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER F",
+					"production": "F",
+					"script": "latin"
+				},
+				{
+					"unicode": "G",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER G",
+					"production": "G",
+					"script": "latin"
+				},
+				{
+					"unicode": "H",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER H",
+					"production": "H",
+					"script": "latin"
+				},
+				{
+					"unicode": "I",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I",
+					"production": "I",
+					"script": "latin"
+				},
+				{
+					"unicode": "J",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER J",
+					"production": "J",
+					"script": "latin"
+				},
+				{
+					"unicode": "K",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER K",
+					"production": "K",
+					"script": "latin"
+				},
+				{
+					"unicode": "L",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER L",
+					"production": "L",
+					"script": "latin"
+				},
+				{
+					"unicode": "M",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER M",
+					"production": "M",
+					"script": "latin"
+				},
+				{
+					"unicode": "N",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N",
+					"production": "N",
+					"script": "latin"
+				},
+				{
+					"unicode": "O",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O",
+					"production": "O",
+					"script": "latin"
+				},
+				{
+					"unicode": "P",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER P",
+					"production": "P",
+					"script": "latin"
+				},
+				{
+					"unicode": "Q",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Q",
+					"production": "Q",
+					"script": "latin"
+				},
+				{
+					"unicode": "R",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER R",
+					"production": "R",
+					"script": "latin"
+				},
+				{
+					"unicode": "S",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S",
+					"production": "S",
+					"script": "latin"
+				},
+				{
+					"unicode": "T",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER T",
+					"production": "T",
+					"script": "latin"
+				},
+				{
+					"unicode": "U",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U",
+					"production": "U",
+					"script": "latin"
+				},
+				{
+					"unicode": "V",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER V",
+					"production": "V",
+					"script": "latin"
+				},
+				{
+					"unicode": "W",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER W",
+					"production": "W",
+					"script": "latin"
+				},
+				{
+					"unicode": "X",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER X",
+					"production": "X",
+					"script": "latin"
+				},
+				{
+					"unicode": "Y",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y",
+					"production": "Y",
+					"script": "latin"
+				},
+				{
+					"unicode": "Z",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z",
+					"production": "Z",
+					"script": "latin"
+				},
+				{
+					"unicode": "[",
+					"category": "Punctuation",
+					"description": "LEFT SQUARE BRACKET",
+					"production": "bracketleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "]",
+					"category": "Punctuation",
+					"description": "RIGHT SQUARE BRACKET",
+					"production": "bracketright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "a",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A",
+					"production": "a",
+					"script": "latin"
+				},
+				{
+					"unicode": "e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER E",
+					"production": "e",
+					"script": "latin"
+				},
+				{
+					"unicode": "i",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER I",
+					"production": "i",
+					"script": "latin"
+				},
+				{
+					"unicode": "j",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER J",
+					"production": "j",
+					"script": "latin"
+				},
+				{
+					"unicode": "k",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER K",
+					"production": "k",
+					"script": "latin"
+				},
+				{
+					"unicode": "l",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER L",
+					"production": "l",
+					"script": "latin"
+				},
+				{
+					"unicode": "m",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER M",
+					"production": "m",
+					"script": "latin"
+				},
+				{
+					"unicode": "n",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER N",
+					"production": "n",
+					"script": "latin"
+				},
+				{
+					"unicode": "o",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O",
+					"production": "o",
+					"script": "latin"
+				},
+				{
+					"unicode": "p",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER P",
+					"production": "p",
+					"script": "latin"
+				},
+				{
+					"unicode": "s",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S",
+					"production": "s",
+					"script": "latin"
+				},
+				{
+					"unicode": "t",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER T",
+					"production": "t",
+					"script": "latin"
+				},
+				{
+					"unicode": "u",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U",
+					"production": "u",
+					"script": "latin"
+				},
+				{
+					"unicode": "w",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER W",
+					"production": "w",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00b7",
+					"category": "Punctuation",
+					"description": "MIDDLE DOT",
+					"production": "periodcentered",
+					"script": "other"
+				},
+				{
+					"unicode": "\u200d",
+					"category": "Separator",
+					"description": "ZERO WIDTH JOINER",
+					"production": "zwj",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": " ",
+					"category": "Separator",
+					"description": "SPACE",
+					"production": "space",
+					"subcategory": "Space",
+					"script": "other"
+				},
+				{
+					"unicode": ",",
+					"category": "Punctuation",
+					"description": "COMMA",
+					"production": "comma",
+					"script": "other"
+				},
+				{
+					"unicode": "-",
+					"category": "Punctuation",
+					"description": "HYPHEN-MINUS",
+					"production": "hyphen",
+					"subcategory": "Dash",
+					"script": "other"
+				},
+				{
+					"unicode": ".",
+					"category": "Punctuation",
+					"description": "FULL STOP",
+					"production": "period",
+					"script": "other"
+				},
+				{
+					"unicode": "0",
+					"category": "Number",
+					"description": "DIGIT ZERO",
+					"production": "zero",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "1",
+					"category": "Number",
+					"description": "DIGIT ONE",
+					"production": "one",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "2",
+					"category": "Number",
+					"description": "DIGIT TWO",
+					"production": "two",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "3",
+					"category": "Number",
+					"description": "DIGIT THREE",
+					"production": "three",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "4",
+					"category": "Number",
+					"description": "DIGIT FOUR",
+					"production": "four",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "5",
+					"category": "Number",
+					"description": "DIGIT FIVE",
+					"production": "five",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "6",
+					"category": "Number",
+					"description": "DIGIT SIX",
+					"production": "six",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "7",
+					"category": "Number",
+					"description": "DIGIT SEVEN",
+					"production": "seven",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "8",
+					"category": "Number",
+					"description": "DIGIT EIGHT",
+					"production": "eight",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": "9",
+					"category": "Number",
+					"description": "DIGIT NINE",
+					"production": "nine",
+					"subcategory": "Decimal Digit",
+					"script": "other"
+				},
+				{
+					"unicode": ":",
+					"category": "Punctuation",
+					"description": "COLON",
+					"production": "colon",
+					"script": "other"
+				},
+				{
+					"unicode": "A",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER A",
+					"production": "A",
+					"script": "latin"
+				},
+				{
+					"unicode": "B",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER B",
+					"production": "B",
+					"script": "latin"
+				},
+				{
+					"unicode": "C",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER C",
+					"production": "C",
+					"script": "latin"
+				},
+				{
+					"unicode": "D",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER D",
+					"production": "D",
+					"script": "latin"
+				},
+				{
+					"unicode": "E",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER E",
+					"production": "E",
+					"script": "latin"
+				},
+				{
+					"unicode": "F",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER F",
+					"production": "F",
+					"script": "latin"
+				},
+				{
+					"unicode": "G",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER G",
+					"production": "G",
+					"script": "latin"
+				},
+				{
+					"unicode": "H",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER H",
+					"production": "H",
+					"script": "latin"
+				},
+				{
+					"unicode": "I",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER I",
+					"production": "I",
+					"script": "latin"
+				},
+				{
+					"unicode": "J",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER J",
+					"production": "J",
+					"script": "latin"
+				},
+				{
+					"unicode": "K",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER K",
+					"production": "K",
+					"script": "latin"
+				},
+				{
+					"unicode": "L",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER L",
+					"production": "L",
+					"script": "latin"
+				},
+				{
+					"unicode": "M",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER M",
+					"production": "M",
+					"script": "latin"
+				},
+				{
+					"unicode": "N",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER N",
+					"production": "N",
+					"script": "latin"
+				},
+				{
+					"unicode": "O",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER O",
+					"production": "O",
+					"script": "latin"
+				},
+				{
+					"unicode": "P",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER P",
+					"production": "P",
+					"script": "latin"
+				},
+				{
+					"unicode": "Q",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Q",
+					"production": "Q",
+					"script": "latin"
+				},
+				{
+					"unicode": "R",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER R",
+					"production": "R",
+					"script": "latin"
+				},
+				{
+					"unicode": "S",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER S",
+					"production": "S",
+					"script": "latin"
+				},
+				{
+					"unicode": "T",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER T",
+					"production": "T",
+					"script": "latin"
+				},
+				{
+					"unicode": "U",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER U",
+					"production": "U",
+					"script": "latin"
+				},
+				{
+					"unicode": "V",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER V",
+					"production": "V",
+					"script": "latin"
+				},
+				{
+					"unicode": "W",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER W",
+					"production": "W",
+					"script": "latin"
+				},
+				{
+					"unicode": "X",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER X",
+					"production": "X",
+					"script": "latin"
+				},
+				{
+					"unicode": "Y",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Y",
+					"production": "Y",
+					"script": "latin"
+				},
+				{
+					"unicode": "Z",
+					"category": "Letter",
+					"description": "LATIN CAPITAL LETTER Z",
+					"production": "Z",
+					"script": "latin"
+				},
+				{
+					"unicode": "[",
+					"category": "Punctuation",
+					"description": "LEFT SQUARE BRACKET",
+					"production": "bracketleft",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "]",
+					"category": "Punctuation",
+					"description": "RIGHT SQUARE BRACKET",
+					"production": "bracketright",
+					"subcategory": "Parenthesis",
+					"script": "other"
+				},
+				{
+					"unicode": "a",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER A",
+					"production": "a",
+					"script": "latin"
+				},
+				{
+					"unicode": "e",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER E",
+					"production": "e",
+					"script": "latin"
+				},
+				{
+					"unicode": "i",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER I",
+					"production": "i",
+					"script": "latin"
+				},
+				{
+					"unicode": "j",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER J",
+					"production": "j",
+					"script": "latin"
+				},
+				{
+					"unicode": "k",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER K",
+					"production": "k",
+					"script": "latin"
+				},
+				{
+					"unicode": "l",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER L",
+					"production": "l",
+					"script": "latin"
+				},
+				{
+					"unicode": "m",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER M",
+					"production": "m",
+					"script": "latin"
+				},
+				{
+					"unicode": "n",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER N",
+					"production": "n",
+					"script": "latin"
+				},
+				{
+					"unicode": "o",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER O",
+					"production": "o",
+					"script": "latin"
+				},
+				{
+					"unicode": "p",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER P",
+					"production": "p",
+					"script": "latin"
+				},
+				{
+					"unicode": "s",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER S",
+					"production": "s",
+					"script": "latin"
+				},
+				{
+					"unicode": "t",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER T",
+					"production": "t",
+					"script": "latin"
+				},
+				{
+					"unicode": "u",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER U",
+					"production": "u",
+					"script": "latin"
+				},
+				{
+					"unicode": "w",
+					"category": "Letter",
+					"description": "LATIN SMALL LETTER W",
+					"production": "w",
+					"script": "latin"
+				},
+				{
+					"unicode": "\u00b7",
+					"category": "Punctuation",
+					"description": "MIDDLE DOT",
+					"production": "periodcentered",
+					"script": "other"
+				},
+				{
+					"unicode": "\u200d",
+					"category": "Separator",
+					"description": "ZERO WIDTH JOINER",
+					"production": "zwj",
+					"subcategory": "Nonspacing",
+					"script": "other"
+				},
+				{
+					"unicode": "\udb86\udd00",
+					"category": "Private Use",
+					"description": "????",
+					"production": "a.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd01",
+					"category": "Private Use",
+					"description": "????",
+					"production": "akesi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd02",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ala.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd03",
+					"category": "Private Use",
+					"description": "????",
+					"production": "alasa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd04",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ale.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd05",
+					"category": "Private Use",
+					"description": "????",
+					"production": "anpa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd06",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ante.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd07",
+					"category": "Private Use",
+					"description": "????",
+					"production": "anu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd08",
+					"category": "Private Use",
+					"description": "????",
+					"production": "awen.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd09",
+					"category": "Private Use",
+					"description": "????",
+					"production": "e.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "en.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "esun.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ijo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ike.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ilo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd0f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "insa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd10",
+					"category": "Private Use",
+					"description": "????",
+					"production": "jaki.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd11",
+					"category": "Private Use",
+					"description": "????",
+					"production": "jan.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd12",
+					"category": "Private Use",
+					"description": "????",
+					"production": "jelo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd13",
+					"category": "Private Use",
+					"description": "????",
+					"production": "jo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd14",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kala.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd15",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kalama.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd16",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kama.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd17",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kasi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd18",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ken.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd19",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kepeken.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kili.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kiwen.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ko.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kon.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kule.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd1f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kulupu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd20",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kute.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd21",
+					"category": "Private Use",
+					"description": "????",
+					"production": "la.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd22",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lape.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd23",
+					"category": "Private Use",
+					"description": "????",
+					"production": "laso.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd24",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lawa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd25",
+					"category": "Private Use",
+					"description": "????",
+					"production": "len.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd26",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lete.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd27",
+					"category": "Private Use",
+					"description": "????",
+					"production": "li.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd28",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lili.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd29",
+					"category": "Private Use",
+					"description": "????",
+					"production": "linja.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lipu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "loje.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lon.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "luka.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lukin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd2f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "lupa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd30",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ma.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd31",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mama.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd32",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mani.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd33",
+					"category": "Private Use",
+					"description": "????",
+					"production": "meli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd34",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd35",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mije.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd36",
+					"category": "Private Use",
+					"description": "????",
+					"production": "moku.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd37",
+					"category": "Private Use",
+					"description": "????",
+					"production": "moli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd38",
+					"category": "Private Use",
+					"description": "????",
+					"production": "monsi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd39",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mun.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "musi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "mute.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nanpa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nasa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd3f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nasin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd40",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nena.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd41",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ni.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd42",
+					"category": "Private Use",
+					"description": "????",
+					"production": "nimi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd43",
+					"category": "Private Use",
+					"description": "????",
+					"production": "noka.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd44",
+					"category": "Private Use",
+					"description": "????",
+					"production": "o.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd45",
+					"category": "Private Use",
+					"description": "????",
+					"production": "olin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd46",
+					"category": "Private Use",
+					"description": "????",
+					"production": "ona.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd47",
+					"category": "Private Use",
+					"description": "????",
+					"production": "open.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd48",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pakala.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd49",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pali.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "palisa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pan.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pana.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pilin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd4f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pimeja.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd50",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pini.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd51",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pipi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd52",
+					"category": "Private Use",
+					"description": "????",
+					"production": "poka.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd53",
+					"category": "Private Use",
+					"description": "????",
+					"production": "poki.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd54",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pona.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd55",
+					"category": "Private Use",
+					"description": "????",
+					"production": "pu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd56",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sama.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd57",
+					"category": "Private Use",
+					"description": "????",
+					"production": "seli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd58",
+					"category": "Private Use",
+					"description": "????",
+					"production": "selo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd59",
+					"category": "Private Use",
+					"description": "????",
+					"production": "seme.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sewi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sijelo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sike.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sina.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd5f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sinpin.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd60",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sitelen.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd61",
+					"category": "Private Use",
+					"description": "????",
+					"production": "sona.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd62",
+					"category": "Private Use",
+					"description": "????",
+					"production": "soweli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd63",
+					"category": "Private Use",
+					"description": "????",
+					"production": "suli.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd64",
+					"category": "Private Use",
+					"description": "????",
+					"production": "suno.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd65",
+					"category": "Private Use",
+					"description": "????",
+					"production": "supa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd66",
+					"category": "Private Use",
+					"description": "????",
+					"production": "suwi.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd67",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tan.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd68",
+					"category": "Private Use",
+					"description": "????",
+					"production": "taso.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd69",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tawa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "telo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tenpo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "toki.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tomo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "tu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd6f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "unpa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd70",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uta.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd71",
+					"category": "Private Use",
+					"description": "????",
+					"production": "utala.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd72",
+					"category": "Private Use",
+					"description": "????",
+					"production": "walo.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd73",
+					"category": "Private Use",
+					"description": "????",
+					"production": "wan.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd74",
+					"category": "Private Use",
+					"description": "????",
+					"production": "waso.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd75",
+					"category": "Private Use",
+					"description": "????",
+					"production": "wawa.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd76",
+					"category": "Private Use",
+					"description": "????",
+					"production": "weka.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd77",
+					"category": "Private Use",
+					"description": "????",
+					"production": "wile.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd78",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF1978",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd79",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF1979",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7a",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197A",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7b",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197B",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "leko.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197D",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7e",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197E",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd7f",
+					"category": "Private Use",
+					"description": "????",
+					"production": "uF197F",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd80",
+					"category": "Private Use",
+					"description": "????",
+					"production": "kijetesantakalu.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd86",
+					"category": "Private Use",
+					"description": "????",
+					"production": "n.t",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd89",
+					"category": "Private Use",
+					"description": "????",
+					"production": "wide.space",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd90",
+					"category": "Private Use",
+					"description": "????",
+					"production": "cartouche.start",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd91",
+					"category": "Private Use",
+					"description": "????",
+					"production": "cartouche.end",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd92",
+					"category": "Private Use",
+					"description": "????",
+					"production": "cartouche.body",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd95",
+					"category": "Private Use",
+					"description": "????",
+					"production": "stackjoiner",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd9c",
+					"category": "Private Use",
+					"description": "????",
+					"production": "dot",
+					"script": "pua"
+				},
+				{
+					"unicode": "\udb86\udd9d",
+					"category": "Private Use",
+					"description": "????",
+					"production": "colon.t",
+					"script": "pua"
+				}
+			]
+		}
+	],
+	"asciiLigatures": true,
+	"ucsurCodepoints": true,
+	"cartouches": true,
+	"combinedGlyphs": true,
+	"homepage": "https://github.com/cvni1981/linja-laso",
+	"source": {
+		"git": {
+			"repositoryUrl": "https://github.com/cvni1981/linja-laso.git",
+			"ref": "main"
+		},
+		"files": [
+			{
+				"sourceFile": "linja_laso_0.1.ttf",
+				"destFile": "linja_laso.ttf"
+			}
+		]
+	},
+	"version": "1.0",
+	"lastUpdated": "2024-04-28T05:00:00.000Z",
+	"generatedVariants": [
+		{
+			"forFilename": "linja_laso.ttf",
+			"generatedFileName": "linja_laso.otf"
+		},
+		{
+			"forFilename": "linja_laso.ttf",
+			"generatedFileName": "linja_laso.woff"
+		},
+		{
+			"forFilename": "linja_laso.ttf",
+			"generatedFileName": "linja_laso.woff2"
+		}
+	]
+}

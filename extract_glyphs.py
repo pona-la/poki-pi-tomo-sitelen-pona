@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from xml.dom.minidom import parse
 import metadata_pb2 as metadata
 from google.protobuf import json_format

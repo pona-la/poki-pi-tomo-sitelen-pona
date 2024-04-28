@@ -519,6 +519,8 @@
 		],
 		"asciiLigatures": true,
 		"ucsurCodepoints": true,
+		"cartouches": true,
+		"combinedGlyphs": true,
 		"homepage": "https://github.com/cvni1981/linja-laso",
 		"source": {
 			"git": {
